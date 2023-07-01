@@ -1,0 +1,1616 @@
+{
+	"rootwords": [
+		{
+			"word": "abdomin/o",
+			"meaning": "abdomen"
+		},
+		{
+			"word": "ablat/o",
+			"meaning": ["to remove","take away"]
+		},
+		{
+			"word": "abrado/o",
+			"meaning": "to scrape off"
+		},
+		{
+			"word": "abras/o",
+			"meaning": "to scrape off"
+		},
+		{
+			"word": "acanth/o",
+			"meaning": ["thorny","spiny"]
+		},
+		{
+			"word": "acar/o",
+			"meaning": "mites"
+		},
+		{
+			"word": "acid/o",
+			"meaning": ["acid","sour","bitter"]
+		},
+		{
+			"word": "acous/o",
+			"meaning": "hearing"
+		},
+		{
+			"word": "acoust/o",
+			"meaning": ["hearing","sound"]
+		},
+		{
+			"word": "acr/o",
+			"meaning": "extremities"
+		},
+		{
+			"word": "actin/o",
+			"meaning": ["ray","radiation"]
+		},
+		{
+			"word": "acu/o",
+			"meaning": ["sharp","severe"]
+		},
+		{
+			"word": "acut/o",
+			"meaning": ["sharp","severe"]
+		},
+		{
+			"word": "aden/o",
+			"meaning": "gland"
+		},
+		{
+			"word": "adenoid/o",
+			"meaning": "adenoids"
+		},
+		{
+			"word": "adip/o",
+			"meaning": "fat"
+		},
+		{
+			"word": "arden/o",
+			"meaning": "adrenal glands"
+		},
+		{
+			"word": "aer/o",
+			"meaning": ["air","gas"]
+		},
+		{
+			"word": "agglutin/o",
+			"meaning": "clumping"
+		},
+		{
+			"word": "agit/o",
+			"meaning": ["rapidity","restlessness"]
+		},
+		{
+			"word": "alveol/o",
+			"meaning": "alveolus"
+		},
+		{
+			"word": "ambly/o",
+			"meaning": ["dim","dull"]
+		},
+		{
+			"word": "ambul/o",
+			"meaning": "to walk"
+		},
+		{
+			"word": "ammon/o",
+			"meaning": "ammonium"
+		},
+		{
+			"word": "amni/o",
+			"meaning": "amnion"
+		},
+		{
+			"word": "amyl/o",
+			"meaning": "starch"
+		},
+		{
+			"word": "an/o",
+			"meaning": "anus"
+		},
+		{
+			"word": "andr/o",
+			"meaning": "male"
+		},
+		{
+			"word": "aneurysm/o",
+			"meaning": "aneurysm"
+		},
+		{
+			"word": "angi/o",
+			"meaning": "vessel"
+		},
+		{
+			"word": "anis/o",
+			"meaning": "unequal"
+		},
+		{
+			"word": "ankyl/o",
+			"meaning": ["stiff","crooked","bent"]
+		},
+		{
+			"word": "anormal/o",
+			"meaning": "irregular"
+		},
+		{
+			"word": "anter/o",
+			"meaning": "front"
+		},
+		{
+			"word": "anthrac/o",
+			"meaning": ["coal","carbon","carbuncle"]
+		},
+		{
+			"word": "anthrop/o",
+			"meaning": ["man","human being"]
+		},
+		{
+			"word": "antr/o",
+			"meaning": "antrum"
+		},
+		{
+			"word": "aort/o",
+			"meaning": "aorta"
+		},
+		{
+			"word": "aphth/o",
+			"meaning": "ulcer"
+		},
+		{
+			"word": "apic/o",
+			"meaning": "apex"
+		},
+		{
+			"word": "aque/o",
+			"meaning": "water"
+		},
+		{
+			"word": "arachn/o",
+			"meaning": "spider"
+		},
+		{
+			"word": "arch/i",
+			"meaning": "first"
+		},
+		{
+			"word": "arch/e",
+			"meaning": "first"
+		},
+		{
+			"word": "arteri/o",
+			"meaning": "artery"
+		},
+		{
+			"word": "arteriol/o",
+			"meaning": "arteriole"
+		},
+		{
+			"word": "arthr/o",
+			"meaning": "joint"
+		},
+		{
+			"word": "articul/o",
+			"meaning": "joint"
+		},
+		{
+			"word": "aspir/o",
+			"meaning": ["inhaling","removal"]
+		},
+		{
+			"word": "aspirat/o",
+			"meaning": ["inhaling","removal"]
+		},
+		{
+			"word": "asthen/o",
+			"meaning": "weakness"
+		},
+		{
+			"word": "astr/o",
+			"meaning": ["star","star shaped"]
+		},
+		{
+			"word": "atel/o",
+			"meaning": ["incomplete","imperfect"]
+		},
+		{
+			"word": "ather/o",
+			"meaning": ["fatty substance","plaque"]
+		},
+		{
+			"word": "atri/o",
+			"meaning": "atrium"
+		},
+		{
+			"word": "audi/o",
+			"meaning": "hearing"
+		},
+		{
+			"word": "audit/o",
+			"meaning": "hearing"
+		},
+		{
+			"word": "aur/o",
+			"meaning": "ear"
+		},
+		{
+			"word": "auricul/o",
+			"meaning": "ear"
+		},
+		{
+			"word": "auscult/o",
+			"meaning": "to listen"
+		},
+		{
+			"word": "auscultat/o",
+			"meaning": "to listen"
+		},
+		{
+			"word": "aux/o",
+			"meaning": ["growth","acceleration"]
+		},
+		{
+			"word": "axi/o",
+			"meaning": "axis"
+		},
+		{
+			"word": "axill/o",
+			"meaning": "armpit"
+		},
+		{
+			"word": "azot/o",
+			"meaning": ["nitrogen","urea"]
+		},
+		{
+			"word": "bacteri/o",
+			"meaning": "bacteria"
+		},
+		{
+			"word": "balne/o",
+			"meaning": "bath"
+		},
+		{
+			"word": "bar/o",
+			"meaning": ["weight","pressure"]
+		},
+		{
+			"word": "bas/o",
+			"meaning": ["base","foundation"]
+		},
+		{
+			"word": "basi/o",
+			"meaning": ["base","foundation"]
+		},
+		{
+			"word": "bibli/o",
+			"meaning": "books"
+		},
+		{
+			"word": "bil/i",
+			"meaning": "bile"
+		},
+		{
+			"word": "bi/o",
+			"meaning": ["life","living"]
+		},
+		{
+			"word": "blast/o",
+			"meaning": ["early embryonic stage","immature"]
+		},
+		{
+			"word": "blenn/o",
+			"meaning": "mucus"
+		},
+		{
+			"word": "belphar/o",
+			"meaning": "eyelid"
+		},
+		{
+			"word": "brachi/o",
+			"meaning": "arm"
+		},
+		{
+			"word": "brom/o",
+			"meaning": ["bromine containing compound","odor"]
+		},
+		{
+			"word": "broncho/o",
+			"meaning": "bronchus"
+		},
+		{
+			"word": "bronchiol/o",
+			"meaning": "bronchiole"
+		},
+		{
+			"word": "bucc/o",
+			"meaning": "cheek"
+		},
+		{
+			"word": "burs/o",
+			"meaning": "bursa"
+		},
+		{
+			"word": "cac/o",
+			"meaning": ["bad","ill"]
+		},
+		{
+			"word": "calcane/o",
+			"meaning": "heel"
+		},
+		{
+			"word": "calci/o",
+			"meaning": "calcium"
+		},
+		{
+			"word": "calcul/o",
+			"meaning": "to compute"
+		},
+		{
+			"word": "cali/o",
+			"meaning": "calyx"
+		},
+		{
+			"word": "calor/i",
+			"meaning": "heat"
+		},
+		{
+			"word": "campt/o",
+			"meaning": "bent"
+		},
+		{
+			"word": "capn/o",
+			"meaning": "carbon dioxide"
+		},
+		{
+			"word": "capsul/o",
+			"meaning": ["capsule","container"]
+		},
+		{
+			"word": "caps/o",
+			"meaning": ["capsule","container"]
+		},
+		{
+			"word": "carb/o",
+			"meaning": "carbon"
+		},
+		{
+			"word": "carcin/o",
+			"meaning": "cancer"
+		},
+		{
+			"word": "cardi/o",
+			"meaning": "heart"
+		},
+		{
+			"word": "cari/o",
+			"meaning": "caries"
+		},
+		{
+			"word": "carp/o",
+			"meaning": "wrist"
+		},
+		{
+			"word": "cathar/o",
+			"meaning": ["cleansing","purging"]
+		},
+		{
+			"word": "cathart/o",
+			"meaning": ["cleansing","purging"]
+		},
+		{
+			"word": "caud/o",
+			"meaning": "tail"
+		},
+		{
+			"word": "caus/o",
+			"meaning": ["burn","burning"]
+		},
+		{
+			"word": "cauter/o",
+			"meaning": ["burn","burning"]
+		},
+		{
+			"word": "cavit/o",
+			"meaning": ["hollow","cavity"]
+		},
+		{
+			"word": "cav/o",
+			"meaning": ["hollow","cavity"]
+		},
+		{
+			"word": "cec/o",
+			"meaning": "cecum"
+		},
+		{
+			"word": "celi/o",
+			"meaning": "abdomen"
+		},
+		{
+			"word": "centr/o",
+			"meaning": "center"
+		},
+		{
+			"word": "cephal/o",
+			"meaning": "head"
+		},
+		{
+			"word": "cerebell/o",
+			"meaning": "cerebellum"
+		},
+		{
+			"word": "cerebr/o",
+			"meaning": ["cerebrum","brain"]
+		},
+		{
+			"word": "cervic/o",
+			"meaning": ["neck","cervix"]
+		},
+		{
+			"word": "cheil/o",
+			"meaning": "lip"
+		},
+		{
+			"word": "chil/o",
+			"meaning": "lip"
+		},
+		{
+			"word": "chem/o",
+			"meaning": ["chemical","chemistry"]
+		},
+		{
+			"word": "chir/o",
+			"meaning": "hand"
+		},
+		{
+			"word": "cheir/o",
+			"meaning": "hand"
+		},
+		{
+			"word": "chlor/o",
+			"meaning": "green"
+		},
+		{
+			"word": "chol/e",
+			"meaning": ["gall","bile"]
+		},
+		{
+			"word": "choledoch/o",
+			"meaning": "common bile duct"
+		},
+		{
+			"word": "chondr/o",
+			"meaning": "cartilage"
+		},
+		{
+			"word": "chori/o",
+			"meaning": "chorion"
+		},
+		{
+			"word": "chrom/o",
+			"meaning": "color"
+		},
+		{
+			"word": "chron/o",
+			"meaning": ["time","timing"]
+		},
+		{
+			"word": "chrys/o",
+			"meaning": "gold"
+		},
+		{
+			"word": "chyl/o",
+			"meaning": "chyle"
+		},
+		{
+			"word": "cirrh/o",
+			"meaning": "orange-yellow"
+		},
+		{
+			"word": "cleid/o",
+			"meaning": "clavicle"
+		},
+		{
+			"word": "clin/o",
+			"meaning": ["to slope","bend"]
+		},
+		{
+			"word": "coagul/o",
+			"meaning": ["coagulation","clotting"]
+		},
+		{
+			"word": "coccyg/o",
+			"meaning": "coccyx"
+		},
+		{
+			"word": "cochle/o",
+			"meaning": "cochlea"
+		},
+		{
+			"word": "colo/o",
+			"meaning": "colon"
+		},
+		{
+			"word": "colp/o",
+			"meaning": "vagina"
+		},
+		{
+			"word": "coni/o",
+			"meaning": "dust"
+		},
+		{
+			"word": "conjunctiv/o",
+			"meaning": "conjunctiva"
+		},
+		{
+			"word": "consci/o",
+			"meaning": ["awareness","aware"]
+		},
+		{
+			"word": "contrict/o",
+			"meaning": ["narrowing","binding"]
+		},
+		{
+			"word": "contus/o",
+			"meaning": "to bruise"
+		},
+		{
+			"word": "cor/o",
+			"meaning": "pupil"
+		},
+		{
+			"word": "corne/o",
+			"meaning": "cornea"
+		},
+		{
+			"word": "coron/o",
+			"meaning": "heart"
+		},
+		{
+			"word": "corpor/o",
+			"meaning": "body"
+		},
+		{
+			"word": "cortic/o",
+			"meaning": "cortex"
+		},
+		{
+			"word": "cost/o",
+			"meaning": "rib"
+		},
+		{
+			"word": "cox/o",
+			"meaning": "hip"
+		},
+		{
+			"word": "crani/o",
+			"meaning": "skull"
+		},
+		{
+			"word": "circ/o",
+			"meaning": "ring"
+		},
+		{
+			"word": "crin/o",
+			"meaning": ["secrete","seperate"]
+		},
+		{
+			"word": "crtic/o",
+			"meaning": ["crisis","dangerous"]
+		},
+		{
+			"word": "cry/o",
+			"meaning": "cold"
+		},
+		{
+			"word": "crypt/o",
+			"meaning": ["hidden","concealed"]
+		},
+		{
+			"word": "crystall/o",
+			"meaning": ["crystal","transparent"]
+		},
+		{
+			"word": "cubit/o",
+			"meaning": ["elbow","forearm"]
+		},
+		{
+			"word": "culd/o",
+			"meaning": "cul-de-sac"
+		},
+		{
+			"word": "cune/o",
+			"meaning": ["wedge","wedge-shaped"]
+		},
+		{
+			"word": "cupr/o",
+			"meaning": "copper"
+		},
+		{
+			"word": "cutane/o",
+			"meaning": "skin"
+		},
+		{
+			"word": "cyan/o",
+			"meaning": "blue"
+		},
+		{
+			"word": "cycl/o",
+			"meaning": ["ciliary body","circular"]
+		},
+		{
+			"word": "cyst/o",
+			"meaning": ["bladder","cyst"]
+		},
+		{
+			"word": "cyt/o",
+			"meaning": "cell"
+		},
+		{
+			"word": "dacry/o",
+			"meaning": "tear"
+		},
+		{
+			"word": "dactyl/o",
+			"meaning": "digit(finger or toe)"
+		},
+		{
+			"word": "dem/o",
+			"meaning": "people"
+		},
+		{
+			"word": "dent/i",
+			"meaning": "tooth"
+		},
+		{
+			"word": "derm/o",
+			"meaning": "skin"
+		},
+		{
+			"word": "dermat/o",
+			"meaning": "skin"
+		},
+		{
+			"word": "desicc/o",
+			"meaning": "to dry"
+		},
+		{
+			"word": "desm/o",
+			"meaning": "ligament"
+		},
+		{
+			"word": "deuter/o",
+			"meaning": ["second","secondary"]
+		},
+		{
+			"word": "dextr/o",
+			"meaning": "right"
+		},
+		{
+			"word": "didym/o",
+			"meaning": ["a twin","testis"]
+		},
+		{
+			"word": "dilat/o",
+			"meaning": ["enlarge","expand"]
+		},
+		{
+			"word": "dipl/o",
+			"meaning": "double"
+		},
+		{
+			"word": "dips/o",
+			"meaning": "thirst"
+		},
+		{
+			"word": "dist/o",
+			"meaning": "distant"
+		},
+		{
+			"word": "dolich/o",
+			"meaning": "long"
+		},
+		{
+			"word": "dolor/o",
+			"meaning": "pain"
+		},
+		{
+			"word": "dors/o",
+			"meaning": "back"
+		},
+		{
+			"word": "drom/o",
+			"meaning": "running"
+		},
+		{
+			"word": "duct/o",
+			"meaning": "to lead"
+		},
+		{
+			"word": "duoden/o",
+			"meaning": "duodenum"
+		},
+		{
+			"word": "dynam/o",
+			"meaning": ["power","strength"]
+		},
+		{
+			"word": "echin/o",
+			"meaning": ["spiny","prickly"]
+		},
+		{
+			"word": "ectr/o",
+			"meaning": "congenital absence"
+		},
+		{
+			"word": "ele/o",
+			"meaning": "oil"
+		},
+		{
+			"word": "electr/o",
+			"meaning": "electricity"
+		},
+		{
+			"word": "embol/o",
+			"meaning": "embolus"
+		},
+		{
+			"word": "embry/o",
+			"meaning": "embryo"
+		},
+		{
+			"word": "emmetr/o",
+			"meaning": ["the correct measure","proportioned"]
+		},
+		{
+			"word": "encephal/o",
+			"meaning": "brain"
+		},
+		{
+			"word": "enter/o",
+			"meaning": "intestines (small intestines)"
+		},
+		{
+			"word": "eosin/o",
+			"meaning": ["red","rosy","dawn"]
+		},
+		{
+			"word": "epididym/o",
+			"meaning": "epididymis"
+		},
+		{
+			"word": "epiglott/o",
+			"meaning": "epiglottis"
+		},
+		{
+			"word": "episi/o",
+			"meaning": "vulva"
+		},
+		{
+			"word": "erethism/o",
+			"meaning": "irritation"
+		},
+		{
+			"word": "erg/o",
+			"meaning": "work"
+		},
+		{
+			"word": "erythem/o",
+			"meaning": ["flushed","redness"]
+		},
+		{
+			"word": "erythr/o",
+			"meaning": "red"
+		},
+		{
+			"word": "eschar/o",
+			"meaning": "scab"
+		},
+		{
+			"word": "esophag/o",
+			"meaning": "esophagus"
+		},
+		{
+			"word": "esthesi/o",
+			"meaning": ["sensation","feeling"]
+		},
+		{
+			"word": "eti/o",
+			"meaning": "cause"
+		},
+		{
+			"word": "excit/o",
+			"meaning": "to arouse"
+		},
+		{
+			"word": "faci/o",
+			"meaning": "face"
+		},
+		{
+			"word": "fasci/o",
+			"meaning": "fascia"
+		},
+		{
+			"word": "febr/i",
+			"meaning": "fever"
+		},
+		{
+			"word": "femor/o",
+			"meaning": "femur"
+		},
+		{
+			"word": "ferr/i",
+			"meaning": "iron"
+		},
+		{
+			"word": "ferr/o",
+			"meaning": "iron"
+		},
+		{
+			"word": "fet/o",
+			"meaning": "fetus"
+		},
+		{
+			"word": "fibr/o",
+			"meaning": ["fiber","fibrous"]
+		},
+		{
+			"word": "fibul/o",
+			"meaning": "fibula"
+		},
+		{
+			"word": "fil/o",
+			"meaning": ["thread","thread-like"]
+		},
+		{
+			"word": "fil/i",
+			"meaning": ["thread","thread-like"]
+		},
+		{
+			"word": "filament/o",
+			"meaning": ["thread","thread-like"]
+		},
+		{
+			"word": "fimbria/e",
+			"meaning": "thread-like"
+		},
+		{
+			"word": "flav/o",
+			"meaning": "yellow"
+		},
+		{
+			"word": "flex/o",
+			"meaning": "bend"
+		},
+		{
+			"word": "flect/o",
+			"meaning": "bend"
+		},
+		{
+			"word": "flu/o",
+			"meaning": "to flow"
+		},
+		{
+			"word": "flux/o",
+			"meaning": "to flow"
+		},
+		{
+			"word": "fluor/o",
+			"meaning": "fluorine"
+		},
+		{
+			"word": "follicul/o",
+			"meaning": ["small sac","follicle"]
+		},
+		{
+			"word": "frig/o",
+			"meaning": "cold"
+		},
+		{
+			"word": "frigid/o",
+			"meaning": "cold"
+		},
+		{
+			"word": "funct/o",
+			"meaning": "performance"
+		},
+		{
+			"word": "fung/i",
+			"meaning": ["fungus","mushroom"]
+		},
+		{
+			"word": "fusc/o",
+			"meaning": "dark brown"
+		},
+		{
+			"word": "galact/o",
+			"meaning": "milk"
+		},
+		{
+			"word": "gamet/o",
+			"meaning": "gamete"
+		},
+		{
+			"word": "gam/o",
+			"meaning": ["marriage","sexual union"]
+		},
+		{
+			"word": "gangli/o",
+			"meaning": "ganglion"
+		},
+		{
+			"word": "ganglion/o",
+			"meaning": "ganglion"
+		},
+		{
+			"word": "gastr/o",
+			"meaning": "stomach"
+		},
+		{
+			"word": "ge/o",
+			"meaning": ["earth","soil"]
+		},
+		{
+			"word": "gel/o",
+			"meaning": ["to freeze","congeal"]
+		},
+		{
+			"word": "gemell/o",
+			"meaning": "twins"
+		},
+		{
+			"word": "gen/o",
+			"meaning": ["producing","generating"]
+		},
+		{
+			"word": "geni/o",
+			"meaning": "chin"
+		},
+		{
+			"word": "genit/o",
+			"meaning": "reproduction"
+		},
+		{
+			"word": "ger/o",
+			"meaning": ["aged","old age"]
+		},
+		{
+			"word": "geront/o",
+			"meaning": ["aged","old age"]
+		},
+		{
+			"word": "gest/o",
+			"meaning": "to bear"
+		},
+		{
+			"word": "gestat/o",
+			"meaning": "to bear"
+		},
+		{
+			"word": "gigant/o",
+			"meaning": "huge"
+		},
+		{
+			"word": "gingiv/o",
+			"meaning": "gums"
+		},
+		{
+			"word": "glauc/o",
+			"meaning": ["gray","bluish green"]
+		},
+		{
+			"word": "gli/o",
+			"meaning": ["glue","neuroglia"]
+		},
+		{
+			"word": "glomerul/o",
+			"meaning": "glomerulus"
+		},
+		{
+			"word": "gloss/o",
+			"meaning": "toung"
+		},
+		{
+			"word": "gluc/o",
+			"meaning": ["glucose","sugar"]
+		},
+		{
+			"word": "glyc/o",
+			"meaning": ["glucose","sugar"]
+		},
+		{
+			"word": "gnath/o",
+			"meaning": "jaw"
+		},
+		{
+			"word": "gnos/o",
+			"meaning": "knowledge"
+		},
+		{
+			"word": "gon/o",
+			"meaning": ["genitals","semen"]
+		},
+		{
+			"word": "gonad/o",
+			"meaning": "gonads"
+		},
+		{
+			"word": "goni/o",
+			"meaning": "angle"
+		},
+		{
+			"word": "granul/o",
+			"meaning": "granules"
+		},
+		{
+			"word": "graph/o",
+			"meaning": "writing"
+		},
+		{
+			"word": "gravid/o",
+			"meaning": "pregnancy"
+		},
+		{
+			"word": "gustat/o",
+			"meaning": "taste"
+		},
+		{
+			"word": "gust/o",
+			"meaning": "taste"
+		},
+		{
+			"word": "gynec/o",
+			"meaning": ["woman","female"]
+		},
+		{
+			"word": "gyr/o",
+			"meaning": ["circle","spiral"]
+		},
+		{
+			"word": "haph/e",
+			"meaning": "touch"
+		},
+		{
+			"word": "hapl/o",
+			"meaning": ["simple","single"]
+		},
+		{
+			"word": "hect/o",
+			"meaning": "hundred (10^2)"
+		},
+		{
+			"word": "helc/o",
+			"meaning": "ulcer"
+		},
+		{
+			"word": "heli/o",
+			"meaning": "sun"
+		},
+		{
+			"word": "helminth/o",
+			"meaning": "worm"
+		},
+		{
+			"word": "hem/o",
+			"meaning": "blood"
+		},
+		{
+			"word": "hemat/o",
+			"meaning": "blood"
+		},
+		{
+			"word": "hepat/o",
+			"meaning": "liver"
+		},
+		{
+			"word": "hidr/o",
+			"meaning": "sweat"
+		},
+		{
+			"word": "hirsut/o",
+			"meaning": "hairy"
+		},
+		{
+			"word": "hirud/i",
+			"meaning": "leech"
+		},
+		{
+			"word": "hirudin/i",
+			"meaning": "leech"
+		},
+		{
+			"word": "hist/o",
+			"meaning": "tissue"
+		},
+		{
+			"word": "hormon/o",
+			"meaning": "hormone"
+		},
+		{
+			"word": "humer/o",
+			"meaning": "humerus"
+		},
+		{
+			"word": "hyal/o",
+			"meaning": ["resembling glass","glassy"]
+		},
+		{
+			"word": "hydr/o",
+			"meaning": ["water","hydrogen"]
+		},
+		{
+			"word": "hygr/o",
+			"meaning": "moisture"
+		},
+		{
+			"word": "hymen/o",
+			"meaning": "hymen"
+		},
+		{
+			"word": "hypn/o",
+			"meaning": "sleep"
+		},
+		{
+			"word": "hypothalam/o",
+			"meaning": "hypothalamus"
+		},
+		{
+			"word": "hyster/o",
+			"meaning": "uterus"
+		},
+		{
+			"word": "iatr/o",
+			"meaning": ["treatment","physician"]
+		},
+		{
+			"word": "ichthy/o",
+			"meaning": "fish"
+		},
+		{
+			"word": "icter/o",
+			"meaning": "jaundice"
+		},
+		{
+			"word": "ide/o",
+			"meaning": ["idea","mental images"]
+		},
+		{
+			"word": "idi/o",
+			"meaning": ["individual","distinct","unknown"]
+		},
+		{
+			"word": "ile/o",
+			"meaning": "ileum"
+		},
+		{
+			"word": "ili/o",
+			"meaning": "ilium"
+		},
+		{
+			"word": "immun/o",
+			"meaning": ["protection","immune"]
+		},
+		{
+			"word": "inguin/o",
+			"meaning": "groin"
+		},
+		{
+			"word": "iod/o",
+			"meaning": "iodine"
+		},
+		{
+			"word": "ion/o",
+			"meaning": "ion"
+		},
+		{
+			"word": "ir/o",
+			"meaning": "iris"
+		},
+		{
+			"word": "irid/o",
+			"meaning": "iris"
+		},
+		{
+			"word": "isch/o",
+			"meaning": ["supress","restrain"]
+		},
+		{
+			"word": "ischi/o",
+			"meaning": "ischium"
+		},
+		{
+			"word": "is/o",
+			"meaning": "equal"
+		},
+		{
+			"word": "ixod/i",
+			"meaning": "ticks"
+		},
+		{
+			"word": "jaund/o",
+			"meaning": "yellow"
+		},
+		{
+			"word": "jejun/o",
+			"meaning": "jejunum"
+		},
+		{
+			"word": "kal/i",
+			"meaning": "potassium"
+		},
+		{
+			"word": "kary/o",
+			"meaning": "nucleus"
+		},
+		{
+			"word": "kel/o",
+			"meaning": ["tumor","fibrous growth"]
+		},
+		{
+			"word": "ken/o",
+			"meaning": "empty"
+		},
+		{
+			"word": "kerat/o",
+			"meaning": ["horny tissue","cornea"]
+		},
+		{
+			"word": "keton/o",
+			"meaning": "ketones"
+		},
+		{
+			"word": "kinesi/o",
+			"meaning": "movement"
+		},
+		{
+			"word": "klept/o",
+			"meaning": ["theft","stealing"]
+		},
+		{
+			"word": "koil/o",
+			"meaning": ["hollow","concave","depressed"]
+		},
+		{
+			"word": "kraur/o",
+			"meaning": "dry"
+		},
+		{
+			"word": "kyph/o",
+			"meaning": "humpback"
+		},
+		{
+			"word": "lacrim/o",
+			"meaning": ["tear","lacrimal duct"]
+		},
+		{
+			"word": "lact/o",
+			"meaning": "milk"
+		},
+		{
+			"word": "lal/o",
+			"meaning": ["speech","babble"]
+		},
+		{
+			"word": "lamin/o",
+			"meaning": "lamina"
+		},
+		{
+			"word": "lampr/o",
+			"meaning": "clear"
+		},
+		{
+			"word": "lapar/o",
+			"meaning": ["abdomen","abdominal wall"]
+		},
+		{
+			"word": "laryng/o",
+			"meaning": "larynx"
+		},
+		{
+			"word": "later/o",
+			"meaning": "side"
+		},
+		{
+			"word": "laxat/o",
+			"meaning": ["to slacken","relax","loosen"]
+		},
+		{
+			"word": "lecith/o",
+			"meaning": ["yolk","ovum"]
+		},
+		{
+			"word": "lei/o",
+			"meaning": "smooth"
+		},
+		{
+			"word": "lepid/o",
+			"meaning": ["flakes","scales"]
+		},
+		{
+			"word": "lepr/o",
+			"meaning": "leprosy"
+		},
+		{
+			"word": "lept/o",
+			"meaning": ["slender","thin","delicate"]
+		},
+		{
+			"word": "letharg/o",
+			"meaning": "drowsiness"
+		},
+		{
+			"word": "leuk/o",
+			"meaning": "white"
+		},
+		{
+			"word": "lien/o",
+			"meaning": "spleen"
+		},
+		{
+			"word": "ligament/o",
+			"meaning": "ligament"
+		},
+		{
+			"word": "ligat/o",
+			"meaning": ["binding","tying"]
+		},
+		{
+			"word": "lim/o",
+			"meaning": "hunger"
+		},
+		{
+			"word": "lingu/o",
+			"meaning": "tongue"
+		},
+		{
+			"word": "lip/o",
+			"meaning": "fat"
+		},
+		{
+			"word": "lith/o",
+			"meaning": ["stone","calculus"]
+		},
+		{
+			"word": "lob/o",
+			"meaning": "lobe"
+		},
+		{
+			"word": "logad/o",
+			"meaning": "whites of the eyes"
+		},
+		{
+			"word": "log/o",
+			"meaning": ["word","speech","thought"]
+		},
+		{
+			"word": "loph/o",
+			"meaning": "ridge"
+		},
+		{
+			"word": "lord/o",
+			"meaning": ["curvature","bending"]
+		},
+		{
+			"word": "lox/o",
+			"meaning": ["oblique","slanting"]
+		},
+		{
+			"word": "luc/i",
+			"meaning": "light"
+		},
+		{
+			"word": "lucid/o",
+			"meaning": "clear"
+		},
+		{
+			"word": "lumb/o",
+			"meaning": "loin"
+		},
+		{
+			"word": "lumin/o",
+			"meaning": "light"
+		},
+		{
+			"word": "lute/o",
+			"meaning": "yellow"
+		},
+		{
+			"word": "luxat/o",
+			"meaning": "dislocate"
+		},
+		{
+			"word": "ly/o",
+			"meaning": ["dissolve","loosen"]
+		},
+		{
+			"word": "lymph/o",
+			"meaning": "lymph"
+		},
+		{
+			"word": "mamm/o",
+			"meaning": "breast"
+		},
+		{
+			"word": "mast/o",
+			"meaning": "breast"
+		},
+		{
+			"word": "maxill/o",
+			"meaning": "maxilla"
+		},
+		{
+			"word": "medi/o",
+			"meaning": "middle"
+		},
+		{
+			"word": "mediastin/o",
+			"meaning": "mediastinum"
+		},
+		{
+			"word": "medic/o",
+			"meaning": ["heal","healing"]
+		},
+		{
+			"word": "medull/o",
+			"meaning": ["medulla","marrow"]
+		},
+		{
+			"word": "mel/o",
+			"meaning": ["limbs","limb"]
+		},
+		{
+			"word": "melan/o",
+			"meaning": "black"
+		},
+		{
+			"word": "men/o",
+			"meaning": ["menses","menstruation"]
+		},
+		{
+			"word": "mening/o",
+			"meaning": ["meninges","membranes"]
+		},
+		{
+			"word": "ment/o",
+			"meaning": "mind"
+		},
+		{
+			"word": "mer/o",
+			"meaning": "part"
+		},
+		{
+			"word": "metall/o",
+			"meaning": "metal"
+		},
+		{
+			"word": "method/o",
+			"meaning": ["procedure","technique"]
+		},
+		{
+			"word": "metr/o",
+			"meaning": "uterus"
+		},
+		{
+			"word": "mi/o",
+			"meaning": ["less","smaller"]
+		},
+		{
+			"word": "mis/o",
+			"meaning": ["hatred of","aversion"]
+		},
+		{
+			"word": "morph/o",
+			"meaning": ["shape","form"]
+		},
+		{
+			"word": "mort/o",
+			"meaning": "death"
+		},
+		{
+			"word": "muc/o",
+			"meaning": "mucus"
+		},
+		{
+			"word": "muscul/o",
+			"meaning": "muscle"
+		},
+		{
+			"word": "mutilat/o",
+			"meaning": ["to maim","disfigure"]
+		},
+		{
+			"word": "my/o",
+			"meaning": "muscle"
+		},
+		{
+			"word": "myos/o",
+			"meaning": "muscle"
+		},
+		{
+			"word": "myc/o",
+			"meaning": "fungus"
+		},
+		{
+			"word": "myel/o",
+			"meaning": ["bone marrow","spinal cord"]
+		},
+		{
+			"word": "myring/o",
+			"meaning": "eardrum"
+		},
+		{
+			"word": "myx/o",
+			"meaning": "mucus"
+		},
+		{
+			"word": "narc/o",
+			"meaning": ["numbness","stupor"]
+		},
+		{
+			"word": "nas/o",
+			"meaning": "nose"
+		},
+		{
+			"word": "nat/o",
+			"meaning": "birth"
+		},
+		{
+			"word": "natr/o",
+			"meaning": "sodium"
+		},
+		{
+			"word": "necr/o",
+			"meaning": "death"
+		},
+		{
+			"word": "nephr/o",
+			"meaning": "kidney"
+		},
+		{
+			"word": "neur/o",
+			"meaning": "nerve"
+		},
+		{
+			"word": "neutr/o",
+			"meaning": "nev/o"
+		},
+		{
+			"word": "noct/i",
+			"meaning": "night"
+		},
+		{
+			"word": "nod/o",
+			"meaning": "knot"
+		},
+		{
+			"word": "nom/o",
+			"meaning": ["custom","law"]
+		},
+		{
+			"word": "norm/o",
+			"meaning": ["normal","usual"]
+		},
+		{
+			"word": "nos/o",
+			"meaning": "disease"
+		},
+		{
+			"word": "not/o",
+			"meaning": "the back"
+		},
+		{
+			"word": "nucle/o",
+			"meaning": "nucleus"
+		},
+		{
+			"word": "nutri/o",
+			"meaning": "nourish"
+		},
+		{
+			"word": "nutrit/o",
+			"meaning": "nourish"
+		},
+		{
+			"word": "nyct/o",
+			"meaning": "night"
+		}
+	]
+}
