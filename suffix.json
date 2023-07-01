@@ -1,94 +1,372 @@
-{"suffixes":[
-    {"suffix":"-agogue","meaning":"producer, leader"},
-    {"suffix":"-agra","meaning":"severe pain"},
-    {"suffix":"albo, albin/o","meaning":"white"},
-    {"suffix":"albumin/o","meaning":"albumin"},
-    {"suffix":"-algesia, alges/o","meaning":"pain sensitivity"},
-    {"suffix":"-algia","meaning":"pain"},
-	{"suffix":"-apheresis","meaning":"seperation, removal"},
-	{"suffix":"-arche","meaning":"first"},
-	{"suffix":"-assay","meaning":"to examine, analyze"},
-	{"suffix":"-asthenia","meaning":"weakness"},
-	{"suffix":"-atresia","meaning":"closure, occlusion"},
-	{"suffix":"-basia","meaning":"walking"},
-	{"suffix":"-blast","meaning":"early embryonic stage, immature"},
-	{"suffix":"-bulia","meaning":"will"},
-	{"suffix":"-boulia","meaning":"will"},
-	{"suffix":"-calculia","meaning":"to compute"},
-	{"suffix":"-capnia","meaning":"carbon dioxide"},
-	{"suffix":"-cataphasia","meaning":"affirmation"},
-	{"suffix":"-cathisia","meaning":"sitting"},
-	{"suffix":"-kathisia","meaning":"sitting"},
-	{"suffix":"-cele","meaning":"hernia, swelling"},
-	{"suffix":"-centesis","meaning":"surgical puncture of a cavity"},
-	{"suffix":"-chalasia","meaning":"relaxation"},
-	{"suffix":"-chezia","meaning":"defication"},
-	{"suffix":"-chesia","meaning":"defecation"},
-	{"suffix":"-choria","meaning":"skin coloration"},
-	{"suffix":"-cide","meaning":"killing, agent which kills"},
-	{"suffix":"-clasis","meaning":"break"},
-	{"suffix":"-clasia","meaning":"break"},
-	{"suffix":"-clysis","meaning":"irrigation, washing"},
-	{"suffix":"-coccus","meaning":"berry-shaped bacterium"},
-	{"suffix":"-coimesis","meaning":"sleeping"},
-	{"suffix":"-coma","meaning":"deep sleep"},
-	{"suffix":"-crasia","meaning":"mixture(good or bad), temperament"},
-	{"suffix":"-crit","meaning":"seperate"},
-	{"suffix":"-cusis","meaning":"hearing"},
-	{"suffix":"-cyesis","meaning":"pregnancy"},
-	{"suffix":"-cyte","meaning":"cell"},
-	{"suffix":"-desis","meaning":"surgical fixation, fusion"},
-	{"suffix":"-didymus","meaning":"conjoined twin"},
-	{"suffix":"-drome","meaning":"running"},
-	{"suffix":"-dynia","meaning":"pain"},
-	{"suffix":"-ectasis","meaning":"dilation, expansion"},
-	{"suffix":"-ectasia","meaning":"dilation, expansion"},
-	{"suffix":"-edema","meaning":"swelling"},
-	{"suffix":"-emesis","meaning":"vomiting"},
-	{"suffix":"-emia","meaning":"blood condition"},
-	{"suffix":"-emphraxis","meaning":"stoppage, obstruction"},
-	{"suffix":"-esthesia","meaning":"sensation, feeling"},
-	{"suffix":"-facient","meaning":"to cause, make happen"},
-	{"suffix":"-form","meaning":"specified shape, form"},
-	{"suffix":"-gen","meaning":"producing, generating"},
-	{"suffix":"-genesis","meaning":"production, formation"},
-	{"suffix":"-genic","meaning":"produced by, forming"},
-	{"suffix":"-geusia","meaning":"taste"},
-	{"suffix":"-globin","meaning":"protein"},
-	{"suffix":"-grade","meaning":"step"},
-	{"suffix":"-gram","meaning":"written record"},
-	{"suffix":"-graph","meaning":"instrument for recording"},
-	{"suffix":"-graphy","meaning":"process of recording"},
-	{"suffix":"-gravida","meaning":"pregnant woman"},
-	{"suffix":"-helminth","meaning":"worm"},
-	{"suffix":"-hexia","meaning":"condition"},
-	{"suffix":"-ician","meaning":"specialist"},
-	{"suffix":"-ist","meaning":"specialist"},
-	{"suffix":"-itis","meaning":"inflamation"},
-	{"suffix":"-kinesia","meaning":"movement"},
-	{"suffix":"-kinetic","meaning":"movement"},
-	{"suffix":"-labile","meaning":"unstable, perishable"},
-	{"suffix":"-lalia","meaning":"speech, babble"},
-	{"suffix":"-legia","meaning":"reading"},
-	{"suffix":"-lemma","meaning":"confining membrane"},
-	{"suffix":"-lepsy","meaning":"seizure"},
-	{"suffix":"-lexia","meaning":"speech, word"},
-	{"suffix":"-lipsis","meaning":"omit, fail"},
-	{"suffix":"-listhesis","meaning":"slipping"},
-	{"suffix":"-log","meaning":"word, speech, thought"},
-	{"suffix":"-logue","meaning":"word, speech, thought"},
-	{"suffix":"-logist","meaning":"specialist"},
-	{"suffix":"-logy","meaning":"study of"},
-	{"suffix":"-lucent","meaning":"light-admitting"},
-	{"suffix":"-lysis","meaning":"dissolution, breakdown"},
-	{"suffix":"-malacia","meaning":"softening"},
-	{"suffix":"-mania","meaning":"madness, obsessive, preoccupation"},
-	{"suffix":"-masesis","meaning":"mastication, chewing"},
-	{"suffix":"-megaly","meaning":"enlargement"},
-	{"suffix":"-meter","meaning":"instrument for measuring"},
-	{"suffix":"-metry","meaning":"process of measuring"},
-	{"suffix":"-mimesis","meaning":"imitation, simulation"},
-	{"suffix":"-mnesia","meaning":"memory"},
-	{"suffix":"-motor","meaning":"movement, motion"},
-	{"suffix":"-noia","meaning":"mind, will"},
-	]}
+{
+	"suffixes": [
+		{
+			"suffix": "-agogue",
+			"meaning": "producer, leader"
+		},
+		{
+			"suffix": "-agra",
+			"meaning": "severe pain"
+		},
+		{
+			"suffix": "albo, albin/o",
+			"meaning": "white"
+		},
+		{
+			"suffix": "albumin/o",
+			"meaning": "albumin"
+		},
+		{
+			"suffix": "-algesia, alges/o",
+			"meaning": "pain sensitivity"
+		},
+		{
+			"suffix": "-algia",
+			"meaning": "pain"
+		},
+		{
+			"suffix": "-apheresis",
+			"meaning": "seperation, removal"
+		},
+		{
+			"suffix": "-arche",
+			"meaning": "first"
+		},
+		{
+			"suffix": "-assay",
+			"meaning": "to examine, analyze"
+		},
+		{
+			"suffix": "-asthenia",
+			"meaning": "weakness"
+		},
+		{
+			"suffix": "-atresia",
+			"meaning": "closure, occlusion"
+		},
+		{
+			"suffix": "-basia",
+			"meaning": "walking"
+		},
+		{
+			"suffix": "-blast",
+			"meaning": "early embryonic stage, immature"
+		},
+		{
+			"suffix": "-bulia",
+			"meaning": "will"
+		},
+		{
+			"suffix": "-boulia",
+			"meaning": "will"
+		},
+		{
+			"suffix": "-calculia",
+			"meaning": "to compute"
+		},
+		{
+			"suffix": "-capnia",
+			"meaning": "carbon dioxide"
+		},
+		{
+			"suffix": "-cataphasia",
+			"meaning": "affirmation"
+		},
+		{
+			"suffix": "-cathisia",
+			"meaning": "sitting"
+		},
+		{
+			"suffix": "-kathisia",
+			"meaning": "sitting"
+		},
+		{
+			"suffix": "-cele",
+			"meaning": "hernia, swelling"
+		},
+		{
+			"suffix": "-centesis",
+			"meaning": "surgical puncture of a cavity"
+		},
+		{
+			"suffix": "-chalasia",
+			"meaning": "relaxation"
+		},
+		{
+			"suffix": "-chezia",
+			"meaning": "defication"
+		},
+		{
+			"suffix": "-chesia",
+			"meaning": "defecation"
+		},
+		{
+			"suffix": "-choria",
+			"meaning": "skin coloration"
+		},
+		{
+			"suffix": "-cide",
+			"meaning": "killing, agent which kills"
+		},
+		{
+			"suffix": "-clasis",
+			"meaning": "break"
+		},
+		{
+			"suffix": "-clasia",
+			"meaning": "break"
+		},
+		{
+			"suffix": "-clysis",
+			"meaning": "irrigation, washing"
+		},
+		{
+			"suffix": "-coccus",
+			"meaning": "berry-shaped bacterium"
+		},
+		{
+			"suffix": "-coimesis",
+			"meaning": "sleeping"
+		},
+		{
+			"suffix": "-coma",
+			"meaning": "deep sleep"
+		},
+		{
+			"suffix": "-crasia",
+			"meaning": "mixture(good or bad), temperament"
+		},
+		{
+			"suffix": "-crit",
+			"meaning": "seperate"
+		},
+		{
+			"suffix": "-cusis",
+			"meaning": "hearing"
+		},
+		{
+			"suffix": "-cyesis",
+			"meaning": "pregnancy"
+		},
+		{
+			"suffix": "-cyte",
+			"meaning": "cell"
+		},
+		{
+			"suffix": "-desis",
+			"meaning": "surgical fixation, fusion"
+		},
+		{
+			"suffix": "-didymus",
+			"meaning": "conjoined twin"
+		},
+		{
+			"suffix": "-drome",
+			"meaning": "running"
+		},
+		{
+			"suffix": "-dynia",
+			"meaning": "pain"
+		},
+		{
+			"suffix": "-ectasis",
+			"meaning": "dilation, expansion"
+		},
+		{
+			"suffix": "-ectasia",
+			"meaning": "dilation, expansion"
+		},
+		{
+			"suffix": "-edema",
+			"meaning": "swelling"
+		},
+		{
+			"suffix": "-emesis",
+			"meaning": "vomiting"
+		},
+		{
+			"suffix": "-emia",
+			"meaning": "blood condition"
+		},
+		{
+			"suffix": "-emphraxis",
+			"meaning": "stoppage, obstruction"
+		},
+		{
+			"suffix": "-esthesia",
+			"meaning": "sensation, feeling"
+		},
+		{
+			"suffix": "-facient",
+			"meaning": "to cause, make happen"
+		},
+		{
+			"suffix": "-form",
+			"meaning": "specified shape, form"
+		},
+		{
+			"suffix": "-gen",
+			"meaning": "producing, generating"
+		},
+		{
+			"suffix": "-genesis",
+			"meaning": "production, formation"
+		},
+		{
+			"suffix": "-genic",
+			"meaning": "produced by, forming"
+		},
+		{
+			"suffix": "-geusia",
+			"meaning": "taste"
+		},
+		{
+			"suffix": "-globin",
+			"meaning": "protein"
+		},
+		{
+			"suffix": "-grade",
+			"meaning": "step"
+		},
+		{
+			"suffix": "-gram",
+			"meaning": "written record"
+		},
+		{
+			"suffix": "-graph",
+			"meaning": "instrument for recording"
+		},
+		{
+			"suffix": "-graphy",
+			"meaning": "process of recording"
+		},
+		{
+			"suffix": "-gravida",
+			"meaning": "pregnant woman"
+		},
+		{
+			"suffix": "-helminth",
+			"meaning": "worm"
+		},
+		{
+			"suffix": "-hexia",
+			"meaning": "condition"
+		},
+		{
+			"suffix": "-ician",
+			"meaning": "specialist"
+		},
+		{
+			"suffix": "-ist",
+			"meaning": "specialist"
+		},
+		{
+			"suffix": "-itis",
+			"meaning": "inflamation"
+		},
+		{
+			"suffix": "-kinesia",
+			"meaning": "movement"
+		},
+		{
+			"suffix": "-kinetic",
+			"meaning": "movement"
+		},
+		{
+			"suffix": "-labile",
+			"meaning": "unstable, perishable"
+		},
+		{
+			"suffix": "-lalia",
+			"meaning": "speech, babble"
+		},
+		{
+			"suffix": "-legia",
+			"meaning": "reading"
+		},
+		{
+			"suffix": "-lemma",
+			"meaning": "confining membrane"
+		},
+		{
+			"suffix": "-lepsy",
+			"meaning": "seizure"
+		},
+		{
+			"suffix": "-lexia",
+			"meaning": "speech, word"
+		},
+		{
+			"suffix": "-lipsis",
+			"meaning": "omit, fail"
+		},
+		{
+			"suffix": "-listhesis",
+			"meaning": "slipping"
+		},
+		{
+			"suffix": "-log",
+			"meaning": "word, speech, thought"
+		},
+		{
+			"suffix": "-logue",
+			"meaning": "word, speech, thought"
+		},
+		{
+			"suffix": "-logist",
+			"meaning": "specialist"
+		},
+		{
+			"suffix": "-logy",
+			"meaning": "study of"
+		},
+		{
+			"suffix": "-lucent",
+			"meaning": "light-admitting"
+		},
+		{
+			"suffix": "-lysis",
+			"meaning": "dissolution, breakdown"
+		},
+		{
+			"suffix": "-malacia",
+			"meaning": "softening"
+		},
+		{
+			"suffix": "-mania",
+			"meaning": "madness, obsessive, preoccupation"
+		},
+		{
+			"suffix": "-masesis",
+			"meaning": "mastication, chewing"
+		},
+		{
+			"suffix": "-megaly",
+			"meaning": "enlargement"
+		},
+		{
+			"suffix": "-meter",
+			"meaning": "instrument for measuring"
+		},
+		{
+			"suffix": "-metry",
+			"meaning": "process of measuring"
+		},
+		{
+			"suffix": "-mimesis",
+			"meaning": "imitation, simulation"
+		},
+		{
+			"suffix": "-mnesia",
+			"meaning": "memory"
+		},
+		{
+			"suffix": "-motor",
+			"meaning": "movement, motion"
+		},
+		{
+			"suffix": "-noia",
+			"meaning": "mind, will"
+		}
+	]
+}

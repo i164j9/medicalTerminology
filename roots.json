@@ -1,403 +1,1608 @@
-{"roots":[
-    {"root":"abdomin/o","meaning":"abdomen"},
-    {"root":"ablat/o","meaning":"to remove, take away"},
-    {"root":"abrado/o, abras/o","meaning":"to scrape off"},
-    {"root":"acanth/o","meaning":"thorny, spiny"},
-    {"root":"acar/o","meaning":"mites"},
-    {"root":"acid/o","meaning":"acid, sour, bitter"},
-    {"root":"acous/o","meaning":"hearing"},
-    {"root":"acoust/o","meaning":"hearing, sound"},
-    {"root":"acr/o","meaning":"extremities"},
-    {"root":"actin/o","meaning":"ray, radiation"},
-    {"root":"acu/o, acut/o","meaning":"sharp, severe"},
-    {"root":"aden/o","meaning":"gland"},
-    {"root":"adenoid/o","meaning":"adenoids"},
-    {"root":"adip/o","meaning":"fat"},
-    {"root":"arden/o","meaning":"adrenal glands"},
-    {"root":"aer/o","meaning":"air, gas"},
-    {"root":"agglutin/o","meaning":"clumping"},
-    {"root":"agit/o","meaning":"rapidity, restlessness"},
-    {"root":"alveol/o","meaning":"alveolus"},
-    {"root":"ambly/o","meaning":"dim, dull"},
-    {"root":"ambul/o","meaning":"to walk"},
-    {"root":"ammon/o","meaning":"ammonium"},
-    {"root":"amni/o","meaning":"amnion"},
-    {"root":"amyl/o","meaning":"starch"},
-    {"root":"an/o","meaning":"anus"},
-    {"root":"andr/o","meaning":"male"},
-    {"root":"aneurysm/o","meaning":"aneurysm"},
-    {"root":"angi/o","meaning":"vessel"},
-    {"root":"anis/o","meaning":"unequal"},
-    {"root":"ankyl/o","meaning":"stiff, crooked, bent"},
-    {"root":"anormal/o","meaning":"irregular"},
-    {"root":"anter/o","meaning":"front"},
-    {"root":"anthrac/o","meaning":"coal, carbon, carbuncle"},
-    {"root":"anthrop/o","meaning":"man, human being"},
-    {"root":"antr/o","meaning":"antrum"},
-	 {"root":"aort/o","meaning":"aorta"},
-	{"root":"aphth/o","meaning":"ulcer"},
-	{"root":"apic/o","meaning":"apex"},
-	{"root":"aque/o","meaning":"water"},
-	{"root":"arachn/o","meaning":"spider"},
-	{"root":"arch/i","meaning":"first"},
-	{"root":"arch/e","meaning":"first"},
-	{"root":"arteri/o","meaning":"artery"},
-	{"root":"arteriol/o","meaning":"arteriole"},
-	{"root":"arthr/o","meaning":"joint"},
-	{"root":"articul/o","meaning":"joint"},
-	{"root":"aspir/o","meaning":"inhaling, removal"},
-	{"root":"aspirat/o","meaning":"inhaling, removal"},
-	{"root":"asthen/o","meaning":"weakness"},
-	{"root":"astr/o","meaning":"star, star shaped"},
-	{"root":"atel/o","meaning":"incomplete, imperfect"},
-	{"root":"ather/o","meaning":"fatty substance, plaque"},
-	{"root":"atri/o","meaning":"atrium"},
-	{"root":"audi/o","meaning":"hearing"},
-	{"root":"audit/o","meaning":"hearing"},
-	{"root":"aur/o","meaning":"ear"},
-	{"root":"auricul/o","meaning":"ear"},
-	{"root":"auscult/o","meaning":"to listen"},
-	{"root":"auscultat/o","meaning":"to listen"},
-	{"root":"aux/o","meaning":"growth, acceleration"},
-	{"root":"axi/o","meaning":"axis"},
-	{"root":"axill/o","meaning":"armpit"},
-	{"root":"azot/o","meaning":"nitrogen, urea"},
-	{"root":"bacteri/o","meaning":"bacteria"},
-	{"root":"balne/o","meaning":"bath"},
-	{"root":"bar/o","meaning":"weight, pressure"},
-	{"root":"bas/o","meaning":"base, foundation"},
-	{"root":"basi/o","meaning":"base, foundation"},
-	{"root":"bibli/o","meaning":"books"},
-	{"root":"bil/i","meaning":"bile"},
-	{"root":"bi/o","meaning":"life, living"},
-	{"root":"blast/o","meaning":"early embryonic stage, immature"},
-	{"root":"blenn/o","meaning":"mucus"},
-	{"root":"belphar/o","meaning":"eyelid"},
-	{"root":"brachi/o","meaning":"arm"},
-	{"root":"brom/o","meaning":"bromine containing compound, odor"},
-	{"root":"broncho/o","meaning":"bronchus"},
-	{"root":"bronchiol/o","meaning":"bronchiole"},
-	{"root":"bucc/o","meaning":"cheek"},
-	{"root":"burs/o","meaning":"bursa"},
-	{"root":"cac/o","meaning":"bad, ill"},
-	{"root":"calcane/o","meaning":"heel"},
-	{"root":"calci/o","meaning":"calcium"},
-	{"root":"calcul/o","meaning":"to compute"},
-	{"root":"cali/o","meaning":"calyx"},
-	{"root":"calor/i","meaning":"heat"},
-	{"root":"campt/o","meaning":"bent"},
-	{"root":"capn/o","meaning":"carbon dioxide"},
-	{"root":"capsul/o","meaning":"capsule, container"},
-	{"root":"caps/o","meaning":"capsule, container"},
-	{"root":"carb/o","meaning":"carbon"},
-	{"root":"carcin/o","meaning":"cancer"},
-	{"root":"cardi/o","meaning":"heart"},
-	{"root":"cari/o","meaning":"caries"},
-	{"root":"carp/o","meaning":"wrist"},
-	{"root":"cathar/o","meaning":"cleansing, purging"},
-	{"root":"cathart/o","meaning":"cleansing, purging"},
-	{"root":"caud/o","meaning":"tail"},
-	{"root":"caus/o","meaning":"burn, burning"},
-	{"root":"cauter/o","meaning":"burn, burning"},
-	{"root":"cavit/o","meaning":"hollow, cavity"},
-	{"root":"cav/o","meaning":"hollow, cavity"},
-	{"root":"cec/o","meaning":"cecum"},
-	{"root":"celi/o","meaning":"abdomen"},
-	{"root":"centr/o","meaning":"center"},
-	{"root":"cephal/o","meaning":"head"},
-	{"root":"cerebell/o","meaning":"cerebellum"},
-	{"root":"cerebr/o","meaning":"cerebrum, brain"},
-	{"root":"cervic/o","meaning":"neck, cervix"},
-	{"root":"cheil/o","meaning":"lip"},
-	{"root":"chil/o","meaning":"lip"},
-	{"root":"chem/o","meaning":"chemical, chemistry"},
-	{"root":"chir/o","meaning":"hand"},
-	{"root":"cheir/o","meaning":"hand"},
-	{"root":"chlor/o","meaning":"green"},
-	{"root":"chol/e","meaning":"gall, bile"},
-	{"root":"choledoch/o","meaning":"common bile duct"},
-	{"root":"chondr/o","meaning":"cartilage"},
-	{"root":"chori/o","meaning":"chorion"},
-	{"root":"chrom/o","meaning":"color"},
-	{"root":"chron/o","meaning":"time, timing"},
-	{"root":"chrys/o","meaning":"gold"},
-	{"root":"chyl/o","meaning":"chyle"},
-	{"root":"cirrh/o","meaning":"orange-yellow"},
-	{"root":"cleid/o","meaning":"clavicle"},
-	{"root":"clin/o","meaning":"to slope, bend"},
-	{"root":"coagul/o","meaning":"coagulation, clotting"},
-	{"root":"coccyg/o","meaning":"coccyx"},
-	{"root":"cochle/o","meaning":"cochlea"},
-	{"root":"colo/o","meaning":"colon"},
-	{"root":"colp/o","meaning":"vagina"},
-	{"root":"coni/o","meaning":"dust"},
-	{"root":"conjunctiv/o","meaning":"conjunctiva"},
-	{"root":"consci/o","meaning":"awareness, aware"},
-	{"root":"contrict/o","meaning":"narrowing, binding"},
-	{"root":"contus/o","meaning":"to bruise"},
-	{"root":"cor/o","meaning":"pupil"},
-	{"root":"corne/o","meaning":"cornea"},
-	{"root":"coron/o","meaning":"heart"},
-	{"root":"corpor/o","meaning":"body"},
-	{"root":"cortic/o","meaning":"cortex"},
-	{"root":"cost/o","meaning":"rib"},
-	{"root":"cox/o","meaning":"hip"},
-	{"root":"crani/o","meaning":"skull"},
-	{"root":"circ/o","meaning":"ring"},
-	{"root":"crin/o","meaning":"secrete, seperate"},
-	{"root":"crtic/o","meaning":"crisis, dangerous"},
-	{"root":"cry/o","meaning":"cold"},
-	{"root":"crypt/o","meaning":"hidden, concealed"},
-	{"root":"crystall/o","meaning":"crystal, transparent"},
-	{"root":"cubit/o","meaning":"elbow, forearm"},
-	{"root":"culd/o","meaning":"cul-de-sac"},
-	{"root":"cune/o","meaning":"wedge, wedge-shaped"},
-	{"root":"cupr/o","meaning":"copper"},
-	{"root":"cutane/o","meaning":"skin"},
-	{"root":"cyan/o","meaning":"blue"},
-	{"root":"cycl/o","meaning":"ciliary body, circular"},
-	{"root":"cyst/o","meaning":"bladder, cyst"},
-	{"root":"cyt/o","meaning":"cell"},
-	{"root":"dacry/o","meaning":"tear"},
-	{"root":"dactyl/o","meaning":"digit(finger or toe)"},
-	{"root":"dem/o","meaning":"people"},
-	{"root":"dent/i","meaning":"tooth"},
-	{"root":"derm/o","meaning":"skin"},
-	{"root":"dermat/o","meaning":"skin"},
-	{"root":"desicc/o","meaning":"to dry"}
-	{"root":"desm/o","meaning":"ligament"},
-	{"root":"deuter/o","meaning":"second, secondary"},
-	{"root":"dextr/o","meaning":"right"},
-	{"root":"didym/o","meaning":"a twin, testis"},
-	{"root":"dilat/o","meaning":"enlarge, expand"},
-	{"root":"dipl/o","meaning":"double"},
-	{"root":"dips/o","meaning":"thirst"},
-	{"root":"dist/o","meaning":"distant"},
-	{"root":"dolich/o","meaning":"long"},
-	{"root":"dolor/o","meaning":"pain"},
-	{"root":"dors/o","meaning":"back"},
-	{"root":"drom/o","meaning":"running"},
-	{"root":"duct/o","meaning":"to lead"},
-	{"root":"duoden/o","meaning":"duodenum"},
-	{"root":"dynam/o","meaning":"power, strength"},
-	{"root":"echin/o","meaning":"spiny, prickly"},
-	{"root":"ectr/o","meaning":"congenital absence"},
-	{"root":"ele/o","meaning":"oil"},
-	{"root":"electr/o","meaning":"electricity"},
-	{"root":"embol/o","meaning":"embolus"},
-	{"root":"embry/o","meaning":"embryo"},
-	{"root":"emmetr/o","meaning":"the correct measure, proportioned"},
-	{"root":"encephal/o","meaning":"brain"},
-	{"root":"enter/o","meaning":"intestines (small intestines)"},
-	{"root":"eosin/o","meaning":"red, rosy, dawn"},
-	{"root":"epididym/o","meaning":"epididymis"},
-	{"root":"epiglott/o","meaning":"epiglottis"},
-	{"root":"episi/o","meaning":"vulva"},
-	{"root":"erethism/o","meaning":"irritation"},
-	{"root":"erg/o","meaning":"work"},
-	{"root":"erythem/o","meaning":"flushed, redness"},
-	{"root":"erythr/o","meaning":"red"},
-	{"root":"eschar/o","meaning":"scab"},
-	{"root":"esophag/o","meaning":"esophagus"},
-	{"root":"esthesi/o","meaning":"sensation, feeling"},
-	{"root":"eti/o","meaning":"cause"},
-	{"root":"excit/o","meaning":"to arouse"},
-	{"root":"faci/o","meaning":"face"},
-	{"root":"fasci/o","meaning":"fascia"},
-	{"root":"febr/i","meaning":"fever"},
-	{"root":"femor/o","meaning":"femur"},
-	{"root":"ferr/i","meaning":"iron"},
-	{"root":"ferr/o","meaning":"iron"},
-	{"root":"fet/o","meaning":"fetus"},
-	{"root":"fibr/o","meaning":"fiber, fibrous"},
-	{"root":"fibul/o","meaning":"fibula"},
-	{"root":"fil/o","meaning":"thread, thread-like"},
-	{"root":"fil/i","meaning":"thread, thread-like"},
-	{"root":"filament/o","meaning":"thread, thread-like"},
-	{"root":"fimbria/e","meaning":"thread-like"},
-	{"root":"flav/o","meaning":"yellow"},
-	{"root":"flex/o","meaning":"bend"},
-	{"root":"flect/o","meaning":"bend"},
-	{"root":"flu/o","meaning":"to flow"},
-	{"root":"flux/o","meaning":"to flow"},
-	{"root":"fluor/o","meaning":"fluorine"},
-	{"root":"follicul/o","meaning":"small sac, follicle"},
-	{"root":"frig/o","meaning":"cold"},
-	{"root":"frigid/o","meaning":"cold"},
-	{"root":"funct/o","meaning":"performance"},
-	{"root":"fung/i","meaning":"fungus, mushroom"},
-	{"root":"fusc/o","meaning":"dark brown"},
-	{"root":"galact/o","meaning":"milk"},
-	{"root":"gamet/o","meaning":"gamete"},
-	{"root":"gam/o","meaning":"marriage, sexual union"},
-	{"root":"gangli/o","meaning":"ganglion"},
-	{"root":"ganglion/o","meaning":"ganglion"},
-	{"root":"gastr/o","meaning":"stomach"},
-	{"root":"ge/o","meaning":"earth, soil"},
-	{"root":"gel/o","meaning":"to freeze, congeal"},
-	{"root":"gemell/o","meaning":"twins"},
-	{"root":"gen/o","meaning":"producing, generating"},
-	{"root":"geni/o","meaning":"chin"},
-	{"root":"genit/o","meaning":"reproduction"},
-	{"root":"ger/o","meaning":"aged, old age"},
-	{"root":"geront/o","meaning":"aged, old age"},
-	{"root":"gest/o","meaning":"to bear"},
-	{"root":"gestat/o","meaning":"to bear"},
-	{"root":"gigant/o","meaning":"huge"},
-	{"root":"gingiv/o","meaning":"gums"},
-	{"root":"glauc/o","meaning":"gray, bluish green"},
-	{"root":"gli/o","meaning":"glue, neuroglia"},
-	{"root":"glomerul/o","meaning":"glomerulus"},
-	{"root":"gloss/o","meaning":"toung"},
-	{"root":"gluc/o","meaning":"glucose, sugar"},
-	{"root":"glyc/o","meaning":"glucose, sugar"},
-	{"root":"gnath/o","meaning":"jaw"},
-	{"root":"gnos/o","meaning":"knowledge"},
-	{"root":"gon/o","meaning":"genitals, semen"},
-	{"root":"gonad/o","meaning":"gonads"},
-	{"root":"goni/o","meaning":"angle"},
-	{"root":"granul/o","meaning":"granules"},
-	{"root":"graph/o","meaning":"writing"},
-	{"root":"gravid/o","meaning":"pregnancy"},
-	{"root":"gustat/o","meaning":"taste"},
-	{"root":"gust/o","meaning":"taste"},
-	{"root":"gynec/o","meaning":"woman, female"},
-	{"root":"gyr/o","meaning":"circle, spiral"},
-	{"root":"haph/e","meaning":"touch"},
-	{"root":"hapl/o","meaning":"simple, single"},
-	{"root":"hect/o","meaning":"hundred (10^2)"},
-	{"root":"helc/o","meaning":"ulcer"},
-	{"root":"heli/o","meaning":"sun"},
-	{"root":"helminth/o","meaning":"worm"},
-	{"root":"hem/o","meaning":"blood"},
-	{"root":"hemat/o","meaning":"blood"},
-	{"root":"hepat/o","meaning":"liver"},
-	{"root":"hidr/o","meaning":"sweat"},
-	{"root":"hirsut/o","meaning":"hairy"},
-	{"root":"hirud/i","meaning":"leech"},
-	{"root":"hirudin/i","meaning":"leech"},
-	{"root":"hist/o","meaning":"tissue"},
-	{"root":"hormon/o","meaning":"hormone"},
-	{"root":"humer/o","meaning":"humerus"},
-	{"root":"hyal/o","meaning":"resembling glass, glassy"},
-	{"root":"hydr/o","meaning":"water, hydrogen"},
-	{"root":"hygr/o","meaning":"moisture"},
-	{"root":"hymen/o","meaning":"hymen"},
-	{"root":"hypn/o","meaning":"sleep"},
-	{"root":"hypothalam/o","meaning":"hypothalamus"},
-	{"root":"hyster/o","meaning":"uterus"},
-	{"root":"iatr/o","meaning":"treatment, physician"},
-	{"root":"ichthy/o","meaning":"fish"},
-	{"root":"icter/o","meaning":"jaundice"},
-	{"root":"ide/o","meaning":"idea, mental images"},
-	{"root":"idi/o","meaning":"individual, distinct, unknown"},
-	{"root":"ile/o","meaning":"ileum"},
-	{"root":"ili/o","meaning":"ilium"},
-	{"root":"immun/o","meaning":"protection, immune"},
-	{"root":"inguin/o","meaning":"groin"},
-	{"root":"iod/o","meaning":"iodine"},
-	{"root":"ion/o","meaning":"ion"},
-	{"root":"ir/o","meaning":"iris"},
-	{"root":"irid/o","meaning":"iris"},
-	{"root":"isch/o","meaning":"supress, restrain"},
-	{"root":"ischi/o","meaning":"ischium"},
-	{"root":"is/o","meaning":"equal"},
-	{"root":"ixod/i","meaning":"ticks"},
-	{"root":"jaund/o","meaning":"yellow"},
-	{"root":"jejun/o","meaning":"jejunum"},
-	{"root":"kal/i","meaning":"potassium"},
-	{"root":"kary/o","meaning":"nucleus"},
-	{"root":"kel/o","meaning":"tumor, fibrous growth"},
-	{"root":"ken/o","meaning":"empty"},
-	{"root":"kerat/o","meaning":"horny tissue, cornea"},
-	{"root":"keton/o","meaning":"ketones"},
-	{"root":"kinesi/o","meaning":"movement"},
-	{"root":"klept/o","meaning":"theft, stealing"},
-	{"root":"koil/o","meaning":"hollow, concave, depressed"},
-	{"root":"kraur/o","meaning":"dry"},
-	{"root":"kyph/o","meaning":"humpback"},
-	{"root":"lacrim/o","meaning":"tear, lacrimal duct"},
-	{"root":"lact/o","meaning":"milk"},
-	{"root":"lal/o","meaning":"speech, babble"},
-	{"root":"lamin/o","meaning":"lamina"},
-	{"root":"lampr/o","meaning":"clear"},
-	{"root":"lapar/o","meaning":"abdomen, abdominal wall"},
-	{"root":"laryng/o","meaning":"larynx"},
-	{"root":"later/o","meaning":"side"},
-	{"root":"laxat/o","meaning":"to slacken, relax, loosen"},
-	{"root":"lecith/o","meaning":"yolk, ovum"},
-	{"root":"lei/o","meaning":"smooth"},
-	{"root":"lepid/o","meaning":"flakes, scales"},
-	{"root":"lepr/o","meaning":"leprosy"},
-	{"root":"lept/o","meaning":"slender, thin, delicate"},
-	{"root":"letharg/o","meaning":"drowsiness"},
-	{"root":"leuk/o","meaning":"white"},
-	{"root":"lien/o","meaning":"spleen"},
-	{"root":"ligament/o","meaning":"ligament"},
-	{"root":"ligat/o","meaning":"binding, tying"},
-	{"root":"lim/o","meaning":"hunger"},
-	{"root":"lingu/o","meaning":"tongue"},
-	{"root":"lip/o","meaning":"fat"},
-	{"root":"lith/o","meaning":"stone, calculus"},
-	{"root":"lob/o","meaning":"lobe"},
-	{"root":"logad/o","meaning":"whites of the eyes"},
-	{"root":"log/o","meaning":"word, speech, thought"},
-	{"root":"loph/o","meaning":"ridge"},
-	{"root":"lord/o","meaning":"curvature, bending"},
-	{"root":"lox/o","meaning":"oblique, slanting"},
-	{"root":"luc/i","meaning":"light"},
-	{"root":"lucid/o","meaning":"clear"},
-	{"root":"lumb/o","meaning":"loin"},
-	{"root":"lumin/o","meaning":"light"},
-	{"root":"lute/o","meaning":"yellow"},
-	{"root":"luxat/o","meaning":"dislocate"},
-	{"root":"ly/o","meaning":"dissolve, loosen"},
-	{"root":"lymph/o","meaning":"lymph"},
-	{"root":"mamm/o","meaning":"breast"},
-	{"root":"mast/o","meaning":"breast"},
-	{"root":"maxill/o","meaning":"maxilla"},
-	{"root":"medi/o","meaning":"middle"},
-	{"root":"mediastin/o","meaning":"mediastinum"},
-	{"root":"medic/o","meaning":"heal, healing"},
-	{"root":"medull/o","meaning":"medulla, marrow"},
-	{"root":"mel/o","meaning":"limbs, limb"},
-	{"root":"melan/o","meaning":"black"},
-	{"root":"men/o","meaning":"menses, menstruation"},
-	{"root":"mening/o","meaning":"meninges, membranes"},
-	{"root":"ment/o","meaning":"mind"},
-	{"root":"mer/o","meaning":"part"},
-	{"root":"metall/o","meaning":"metal"},
-	{"root":"method/o","meaning":"procedure, technique"},
-	{"root":"metr/o","meaning":"uterus"},
-	{"root":"mi/o","meaning":"less, smaller"},
-	{"root":"mis/o","meaning":"hatred of, aversion"},
-	{"root":"morph/o","meaning":"shape, form"},
-	{"root":"mort/o","meaning":"death"},
-	{"root":"muc/o","meaning":"mucus"},
-	{"root":"muscul/o","meaning":"muscle"},
-	{"root":"mutilat/o","meaning":"to maim, disfigure"},
-	{"root":"my/o","meaning":"muscle"},
-	{"root":"myos/o","meaning":"muscle"},
-	{"root":"myc/o","meaning":"fungus"},
-	{"root":"myel/o","meaning":"bone marrow, spinal cord"},
-	{"root":"myring/o","meaning":"eardrum"},
-	{"root":"myx/o","meaning":"mucus"},
-	{"root":"narc/o","meaning":"numbness, stupor"},
-	{"root":"nas/o","meaning":"nose"},
-	{"root":"nat/o","meaning":"birth"},
-	{"root":"natr/o","meaning":"sodium"},
-	{"root":"necr/o","meaning":"death"},
-	{"root":"nephr/o","meaning":"kidney"},
-	{"root":"neur/o","meaning":"nerve"},
-	{"root":"neutr/o","meaning":"nev/o"},
-	{"root":"noct/i","meaning":"night"},
-	{"root":"nod/o","meaning":"knot"},
-	{"root":"nom/o","meaning":"custom, law"},
-	{"root":"norm/o","meaning":"normal, usual"},
-	{"root":"nos/o","meaning":"disease"},
-	{"root":"not/o","meaning":"the back"},
-	{"root":"nucle/o","meaning":"nucleus"},
-	{"root":"nutri/o","meaning":"nourish"},
-	{"root":"nutrit/o","meaning":"nourish"},
-	{"root":"nyct/o","meaning":"night"},
-	]}
+{
+	"roots": [
+		{
+			"root": "abdomin/o",
+			"meaning": "abdomen"
+		},
+		{
+			"root": "ablat/o",
+			"meaning": "to remove, take away"
+		},
+		{
+			"root": "abrado/o, abras/o",
+			"meaning": "to scrape off"
+		},
+		{
+			"root": "acanth/o",
+			"meaning": "thorny, spiny"
+		},
+		{
+			"root": "acar/o",
+			"meaning": "mites"
+		},
+		{
+			"root": "acid/o",
+			"meaning": "acid, sour, bitter"
+		},
+		{
+			"root": "acous/o",
+			"meaning": "hearing"
+		},
+		{
+			"root": "acoust/o",
+			"meaning": "hearing, sound"
+		},
+		{
+			"root": "acr/o",
+			"meaning": "extremities"
+		},
+		{
+			"root": "actin/o",
+			"meaning": "ray, radiation"
+		},
+		{
+			"root": "acu/o, acut/o",
+			"meaning": "sharp, severe"
+		},
+		{
+			"root": "aden/o",
+			"meaning": "gland"
+		},
+		{
+			"root": "adenoid/o",
+			"meaning": "adenoids"
+		},
+		{
+			"root": "adip/o",
+			"meaning": "fat"
+		},
+		{
+			"root": "arden/o",
+			"meaning": "adrenal glands"
+		},
+		{
+			"root": "aer/o",
+			"meaning": "air, gas"
+		},
+		{
+			"root": "agglutin/o",
+			"meaning": "clumping"
+		},
+		{
+			"root": "agit/o",
+			"meaning": "rapidity, restlessness"
+		},
+		{
+			"root": "alveol/o",
+			"meaning": "alveolus"
+		},
+		{
+			"root": "ambly/o",
+			"meaning": "dim, dull"
+		},
+		{
+			"root": "ambul/o",
+			"meaning": "to walk"
+		},
+		{
+			"root": "ammon/o",
+			"meaning": "ammonium"
+		},
+		{
+			"root": "amni/o",
+			"meaning": "amnion"
+		},
+		{
+			"root": "amyl/o",
+			"meaning": "starch"
+		},
+		{
+			"root": "an/o",
+			"meaning": "anus"
+		},
+		{
+			"root": "andr/o",
+			"meaning": "male"
+		},
+		{
+			"root": "aneurysm/o",
+			"meaning": "aneurysm"
+		},
+		{
+			"root": "angi/o",
+			"meaning": "vessel"
+		},
+		{
+			"root": "anis/o",
+			"meaning": "unequal"
+		},
+		{
+			"root": "ankyl/o",
+			"meaning": "stiff, crooked, bent"
+		},
+		{
+			"root": "anormal/o",
+			"meaning": "irregular"
+		},
+		{
+			"root": "anter/o",
+			"meaning": "front"
+		},
+		{
+			"root": "anthrac/o",
+			"meaning": "coal, carbon, carbuncle"
+		},
+		{
+			"root": "anthrop/o",
+			"meaning": "man, human being"
+		},
+		{
+			"root": "antr/o",
+			"meaning": "antrum"
+		},
+		{
+			"root": "aort/o",
+			"meaning": "aorta"
+		},
+		{
+			"root": "aphth/o",
+			"meaning": "ulcer"
+		},
+		{
+			"root": "apic/o",
+			"meaning": "apex"
+		},
+		{
+			"root": "aque/o",
+			"meaning": "water"
+		},
+		{
+			"root": "arachn/o",
+			"meaning": "spider"
+		},
+		{
+			"root": "arch/i",
+			"meaning": "first"
+		},
+		{
+			"root": "arch/e",
+			"meaning": "first"
+		},
+		{
+			"root": "arteri/o",
+			"meaning": "artery"
+		},
+		{
+			"root": "arteriol/o",
+			"meaning": "arteriole"
+		},
+		{
+			"root": "arthr/o",
+			"meaning": "joint"
+		},
+		{
+			"root": "articul/o",
+			"meaning": "joint"
+		},
+		{
+			"root": "aspir/o",
+			"meaning": "inhaling, removal"
+		},
+		{
+			"root": "aspirat/o",
+			"meaning": "inhaling, removal"
+		},
+		{
+			"root": "asthen/o",
+			"meaning": "weakness"
+		},
+		{
+			"root": "astr/o",
+			"meaning": "star, star shaped"
+		},
+		{
+			"root": "atel/o",
+			"meaning": "incomplete, imperfect"
+		},
+		{
+			"root": "ather/o",
+			"meaning": "fatty substance, plaque"
+		},
+		{
+			"root": "atri/o",
+			"meaning": "atrium"
+		},
+		{
+			"root": "audi/o",
+			"meaning": "hearing"
+		},
+		{
+			"root": "audit/o",
+			"meaning": "hearing"
+		},
+		{
+			"root": "aur/o",
+			"meaning": "ear"
+		},
+		{
+			"root": "auricul/o",
+			"meaning": "ear"
+		},
+		{
+			"root": "auscult/o",
+			"meaning": "to listen"
+		},
+		{
+			"root": "auscultat/o",
+			"meaning": "to listen"
+		},
+		{
+			"root": "aux/o",
+			"meaning": "growth, acceleration"
+		},
+		{
+			"root": "axi/o",
+			"meaning": "axis"
+		},
+		{
+			"root": "axill/o",
+			"meaning": "armpit"
+		},
+		{
+			"root": "azot/o",
+			"meaning": "nitrogen, urea"
+		},
+		{
+			"root": "bacteri/o",
+			"meaning": "bacteria"
+		},
+		{
+			"root": "balne/o",
+			"meaning": "bath"
+		},
+		{
+			"root": "bar/o",
+			"meaning": "weight, pressure"
+		},
+		{
+			"root": "bas/o",
+			"meaning": "base, foundation"
+		},
+		{
+			"root": "basi/o",
+			"meaning": "base, foundation"
+		},
+		{
+			"root": "bibli/o",
+			"meaning": "books"
+		},
+		{
+			"root": "bil/i",
+			"meaning": "bile"
+		},
+		{
+			"root": "bi/o",
+			"meaning": "life, living"
+		},
+		{
+			"root": "blast/o",
+			"meaning": "early embryonic stage, immature"
+		},
+		{
+			"root": "blenn/o",
+			"meaning": "mucus"
+		},
+		{
+			"root": "belphar/o",
+			"meaning": "eyelid"
+		},
+		{
+			"root": "brachi/o",
+			"meaning": "arm"
+		},
+		{
+			"root": "brom/o",
+			"meaning": "bromine containing compound, odor"
+		},
+		{
+			"root": "broncho/o",
+			"meaning": "bronchus"
+		},
+		{
+			"root": "bronchiol/o",
+			"meaning": "bronchiole"
+		},
+		{
+			"root": "bucc/o",
+			"meaning": "cheek"
+		},
+		{
+			"root": "burs/o",
+			"meaning": "bursa"
+		},
+		{
+			"root": "cac/o",
+			"meaning": "bad, ill"
+		},
+		{
+			"root": "calcane/o",
+			"meaning": "heel"
+		},
+		{
+			"root": "calci/o",
+			"meaning": "calcium"
+		},
+		{
+			"root": "calcul/o",
+			"meaning": "to compute"
+		},
+		{
+			"root": "cali/o",
+			"meaning": "calyx"
+		},
+		{
+			"root": "calor/i",
+			"meaning": "heat"
+		},
+		{
+			"root": "campt/o",
+			"meaning": "bent"
+		},
+		{
+			"root": "capn/o",
+			"meaning": "carbon dioxide"
+		},
+		{
+			"root": "capsul/o",
+			"meaning": "capsule, container"
+		},
+		{
+			"root": "caps/o",
+			"meaning": "capsule, container"
+		},
+		{
+			"root": "carb/o",
+			"meaning": "carbon"
+		},
+		{
+			"root": "carcin/o",
+			"meaning": "cancer"
+		},
+		{
+			"root": "cardi/o",
+			"meaning": "heart"
+		},
+		{
+			"root": "cari/o",
+			"meaning": "caries"
+		},
+		{
+			"root": "carp/o",
+			"meaning": "wrist"
+		},
+		{
+			"root": "cathar/o",
+			"meaning": "cleansing, purging"
+		},
+		{
+			"root": "cathart/o",
+			"meaning": "cleansing, purging"
+		},
+		{
+			"root": "caud/o",
+			"meaning": "tail"
+		},
+		{
+			"root": "caus/o",
+			"meaning": "burn, burning"
+		},
+		{
+			"root": "cauter/o",
+			"meaning": "burn, burning"
+		},
+		{
+			"root": "cavit/o",
+			"meaning": "hollow, cavity"
+		},
+		{
+			"root": "cav/o",
+			"meaning": "hollow, cavity"
+		},
+		{
+			"root": "cec/o",
+			"meaning": "cecum"
+		},
+		{
+			"root": "celi/o",
+			"meaning": "abdomen"
+		},
+		{
+			"root": "centr/o",
+			"meaning": "center"
+		},
+		{
+			"root": "cephal/o",
+			"meaning": "head"
+		},
+		{
+			"root": "cerebell/o",
+			"meaning": "cerebellum"
+		},
+		{
+			"root": "cerebr/o",
+			"meaning": "cerebrum, brain"
+		},
+		{
+			"root": "cervic/o",
+			"meaning": "neck, cervix"
+		},
+		{
+			"root": "cheil/o",
+			"meaning": "lip"
+		},
+		{
+			"root": "chil/o",
+			"meaning": "lip"
+		},
+		{
+			"root": "chem/o",
+			"meaning": "chemical, chemistry"
+		},
+		{
+			"root": "chir/o",
+			"meaning": "hand"
+		},
+		{
+			"root": "cheir/o",
+			"meaning": "hand"
+		},
+		{
+			"root": "chlor/o",
+			"meaning": "green"
+		},
+		{
+			"root": "chol/e",
+			"meaning": "gall, bile"
+		},
+		{
+			"root": "choledoch/o",
+			"meaning": "common bile duct"
+		},
+		{
+			"root": "chondr/o",
+			"meaning": "cartilage"
+		},
+		{
+			"root": "chori/o",
+			"meaning": "chorion"
+		},
+		{
+			"root": "chrom/o",
+			"meaning": "color"
+		},
+		{
+			"root": "chron/o",
+			"meaning": "time, timing"
+		},
+		{
+			"root": "chrys/o",
+			"meaning": "gold"
+		},
+		{
+			"root": "chyl/o",
+			"meaning": "chyle"
+		},
+		{
+			"root": "cirrh/o",
+			"meaning": "orange-yellow"
+		},
+		{
+			"root": "cleid/o",
+			"meaning": "clavicle"
+		},
+		{
+			"root": "clin/o",
+			"meaning": "to slope, bend"
+		},
+		{
+			"root": "coagul/o",
+			"meaning": "coagulation, clotting"
+		},
+		{
+			"root": "coccyg/o",
+			"meaning": "coccyx"
+		},
+		{
+			"root": "cochle/o",
+			"meaning": "cochlea"
+		},
+		{
+			"root": "colo/o",
+			"meaning": "colon"
+		},
+		{
+			"root": "colp/o",
+			"meaning": "vagina"
+		},
+		{
+			"root": "coni/o",
+			"meaning": "dust"
+		},
+		{
+			"root": "conjunctiv/o",
+			"meaning": "conjunctiva"
+		},
+		{
+			"root": "consci/o",
+			"meaning": "awareness, aware"
+		},
+		{
+			"root": "contrict/o",
+			"meaning": "narrowing, binding"
+		},
+		{
+			"root": "contus/o",
+			"meaning": "to bruise"
+		},
+		{
+			"root": "cor/o",
+			"meaning": "pupil"
+		},
+		{
+			"root": "corne/o",
+			"meaning": "cornea"
+		},
+		{
+			"root": "coron/o",
+			"meaning": "heart"
+		},
+		{
+			"root": "corpor/o",
+			"meaning": "body"
+		},
+		{
+			"root": "cortic/o",
+			"meaning": "cortex"
+		},
+		{
+			"root": "cost/o",
+			"meaning": "rib"
+		},
+		{
+			"root": "cox/o",
+			"meaning": "hip"
+		},
+		{
+			"root": "crani/o",
+			"meaning": "skull"
+		},
+		{
+			"root": "circ/o",
+			"meaning": "ring"
+		},
+		{
+			"root": "crin/o",
+			"meaning": "secrete, seperate"
+		},
+		{
+			"root": "crtic/o",
+			"meaning": "crisis, dangerous"
+		},
+		{
+			"root": "cry/o",
+			"meaning": "cold"
+		},
+		{
+			"root": "crypt/o",
+			"meaning": "hidden, concealed"
+		},
+		{
+			"root": "crystall/o",
+			"meaning": "crystal, transparent"
+		},
+		{
+			"root": "cubit/o",
+			"meaning": "elbow, forearm"
+		},
+		{
+			"root": "culd/o",
+			"meaning": "cul-de-sac"
+		},
+		{
+			"root": "cune/o",
+			"meaning": "wedge, wedge-shaped"
+		},
+		{
+			"root": "cupr/o",
+			"meaning": "copper"
+		},
+		{
+			"root": "cutane/o",
+			"meaning": "skin"
+		},
+		{
+			"root": "cyan/o",
+			"meaning": "blue"
+		},
+		{
+			"root": "cycl/o",
+			"meaning": "ciliary body, circular"
+		},
+		{
+			"root": "cyst/o",
+			"meaning": "bladder, cyst"
+		},
+		{
+			"root": "cyt/o",
+			"meaning": "cell"
+		},
+		{
+			"root": "dacry/o",
+			"meaning": "tear"
+		},
+		{
+			"root": "dactyl/o",
+			"meaning": "digit(finger or toe)"
+		},
+		{
+			"root": "dem/o",
+			"meaning": "people"
+		},
+		{
+			"root": "dent/i",
+			"meaning": "tooth"
+		},
+		{
+			"root": "derm/o",
+			"meaning": "skin"
+		},
+		{
+			"root": "dermat/o",
+			"meaning": "skin"
+		},
+		{
+			"root": "desicc/o",
+			"meaning": "to dry"
+		},
+		{
+			"root": "desm/o",
+			"meaning": "ligament"
+		},
+		{
+			"root": "deuter/o",
+			"meaning": "second, secondary"
+		},
+		{
+			"root": "dextr/o",
+			"meaning": "right"
+		},
+		{
+			"root": "didym/o",
+			"meaning": "a twin, testis"
+		},
+		{
+			"root": "dilat/o",
+			"meaning": "enlarge, expand"
+		},
+		{
+			"root": "dipl/o",
+			"meaning": "double"
+		},
+		{
+			"root": "dips/o",
+			"meaning": "thirst"
+		},
+		{
+			"root": "dist/o",
+			"meaning": "distant"
+		},
+		{
+			"root": "dolich/o",
+			"meaning": "long"
+		},
+		{
+			"root": "dolor/o",
+			"meaning": "pain"
+		},
+		{
+			"root": "dors/o",
+			"meaning": "back"
+		},
+		{
+			"root": "drom/o",
+			"meaning": "running"
+		},
+		{
+			"root": "duct/o",
+			"meaning": "to lead"
+		},
+		{
+			"root": "duoden/o",
+			"meaning": "duodenum"
+		},
+		{
+			"root": "dynam/o",
+			"meaning": "power, strength"
+		},
+		{
+			"root": "echin/o",
+			"meaning": "spiny, prickly"
+		},
+		{
+			"root": "ectr/o",
+			"meaning": "congenital absence"
+		},
+		{
+			"root": "ele/o",
+			"meaning": "oil"
+		},
+		{
+			"root": "electr/o",
+			"meaning": "electricity"
+		},
+		{
+			"root": "embol/o",
+			"meaning": "embolus"
+		},
+		{
+			"root": "embry/o",
+			"meaning": "embryo"
+		},
+		{
+			"root": "emmetr/o",
+			"meaning": "the correct measure, proportioned"
+		},
+		{
+			"root": "encephal/o",
+			"meaning": "brain"
+		},
+		{
+			"root": "enter/o",
+			"meaning": "intestines (small intestines)"
+		},
+		{
+			"root": "eosin/o",
+			"meaning": "red, rosy, dawn"
+		},
+		{
+			"root": "epididym/o",
+			"meaning": "epididymis"
+		},
+		{
+			"root": "epiglott/o",
+			"meaning": "epiglottis"
+		},
+		{
+			"root": "episi/o",
+			"meaning": "vulva"
+		},
+		{
+			"root": "erethism/o",
+			"meaning": "irritation"
+		},
+		{
+			"root": "erg/o",
+			"meaning": "work"
+		},
+		{
+			"root": "erythem/o",
+			"meaning": "flushed, redness"
+		},
+		{
+			"root": "erythr/o",
+			"meaning": "red"
+		},
+		{
+			"root": "eschar/o",
+			"meaning": "scab"
+		},
+		{
+			"root": "esophag/o",
+			"meaning": "esophagus"
+		},
+		{
+			"root": "esthesi/o",
+			"meaning": "sensation, feeling"
+		},
+		{
+			"root": "eti/o",
+			"meaning": "cause"
+		},
+		{
+			"root": "excit/o",
+			"meaning": "to arouse"
+		},
+		{
+			"root": "faci/o",
+			"meaning": "face"
+		},
+		{
+			"root": "fasci/o",
+			"meaning": "fascia"
+		},
+		{
+			"root": "febr/i",
+			"meaning": "fever"
+		},
+		{
+			"root": "femor/o",
+			"meaning": "femur"
+		},
+		{
+			"root": "ferr/i",
+			"meaning": "iron"
+		},
+		{
+			"root": "ferr/o",
+			"meaning": "iron"
+		},
+		{
+			"root": "fet/o",
+			"meaning": "fetus"
+		},
+		{
+			"root": "fibr/o",
+			"meaning": "fiber, fibrous"
+		},
+		{
+			"root": "fibul/o",
+			"meaning": "fibula"
+		},
+		{
+			"root": "fil/o",
+			"meaning": "thread, thread-like"
+		},
+		{
+			"root": "fil/i",
+			"meaning": "thread, thread-like"
+		},
+		{
+			"root": "filament/o",
+			"meaning": "thread, thread-like"
+		},
+		{
+			"root": "fimbria/e",
+			"meaning": "thread-like"
+		},
+		{
+			"root": "flav/o",
+			"meaning": "yellow"
+		},
+		{
+			"root": "flex/o",
+			"meaning": "bend"
+		},
+		{
+			"root": "flect/o",
+			"meaning": "bend"
+		},
+		{
+			"root": "flu/o",
+			"meaning": "to flow"
+		},
+		{
+			"root": "flux/o",
+			"meaning": "to flow"
+		},
+		{
+			"root": "fluor/o",
+			"meaning": "fluorine"
+		},
+		{
+			"root": "follicul/o",
+			"meaning": "small sac, follicle"
+		},
+		{
+			"root": "frig/o",
+			"meaning": "cold"
+		},
+		{
+			"root": "frigid/o",
+			"meaning": "cold"
+		},
+		{
+			"root": "funct/o",
+			"meaning": "performance"
+		},
+		{
+			"root": "fung/i",
+			"meaning": "fungus, mushroom"
+		},
+		{
+			"root": "fusc/o",
+			"meaning": "dark brown"
+		},
+		{
+			"root": "galact/o",
+			"meaning": "milk"
+		},
+		{
+			"root": "gamet/o",
+			"meaning": "gamete"
+		},
+		{
+			"root": "gam/o",
+			"meaning": "marriage, sexual union"
+		},
+		{
+			"root": "gangli/o",
+			"meaning": "ganglion"
+		},
+		{
+			"root": "ganglion/o",
+			"meaning": "ganglion"
+		},
+		{
+			"root": "gastr/o",
+			"meaning": "stomach"
+		},
+		{
+			"root": "ge/o",
+			"meaning": "earth, soil"
+		},
+		{
+			"root": "gel/o",
+			"meaning": "to freeze, congeal"
+		},
+		{
+			"root": "gemell/o",
+			"meaning": "twins"
+		},
+		{
+			"root": "gen/o",
+			"meaning": "producing, generating"
+		},
+		{
+			"root": "geni/o",
+			"meaning": "chin"
+		},
+		{
+			"root": "genit/o",
+			"meaning": "reproduction"
+		},
+		{
+			"root": "ger/o",
+			"meaning": "aged, old age"
+		},
+		{
+			"root": "geront/o",
+			"meaning": "aged, old age"
+		},
+		{
+			"root": "gest/o",
+			"meaning": "to bear"
+		},
+		{
+			"root": "gestat/o",
+			"meaning": "to bear"
+		},
+		{
+			"root": "gigant/o",
+			"meaning": "huge"
+		},
+		{
+			"root": "gingiv/o",
+			"meaning": "gums"
+		},
+		{
+			"root": "glauc/o",
+			"meaning": "gray, bluish green"
+		},
+		{
+			"root": "gli/o",
+			"meaning": "glue, neuroglia"
+		},
+		{
+			"root": "glomerul/o",
+			"meaning": "glomerulus"
+		},
+		{
+			"root": "gloss/o",
+			"meaning": "toung"
+		},
+		{
+			"root": "gluc/o",
+			"meaning": "glucose, sugar"
+		},
+		{
+			"root": "glyc/o",
+			"meaning": "glucose, sugar"
+		},
+		{
+			"root": "gnath/o",
+			"meaning": "jaw"
+		},
+		{
+			"root": "gnos/o",
+			"meaning": "knowledge"
+		},
+		{
+			"root": "gon/o",
+			"meaning": "genitals, semen"
+		},
+		{
+			"root": "gonad/o",
+			"meaning": "gonads"
+		},
+		{
+			"root": "goni/o",
+			"meaning": "angle"
+		},
+		{
+			"root": "granul/o",
+			"meaning": "granules"
+		},
+		{
+			"root": "graph/o",
+			"meaning": "writing"
+		},
+		{
+			"root": "gravid/o",
+			"meaning": "pregnancy"
+		},
+		{
+			"root": "gustat/o",
+			"meaning": "taste"
+		},
+		{
+			"root": "gust/o",
+			"meaning": "taste"
+		},
+		{
+			"root": "gynec/o",
+			"meaning": "woman, female"
+		},
+		{
+			"root": "gyr/o",
+			"meaning": "circle, spiral"
+		},
+		{
+			"root": "haph/e",
+			"meaning": "touch"
+		},
+		{
+			"root": "hapl/o",
+			"meaning": "simple, single"
+		},
+		{
+			"root": "hect/o",
+			"meaning": "hundred (10^2)"
+		},
+		{
+			"root": "helc/o",
+			"meaning": "ulcer"
+		},
+		{
+			"root": "heli/o",
+			"meaning": "sun"
+		},
+		{
+			"root": "helminth/o",
+			"meaning": "worm"
+		},
+		{
+			"root": "hem/o",
+			"meaning": "blood"
+		},
+		{
+			"root": "hemat/o",
+			"meaning": "blood"
+		},
+		{
+			"root": "hepat/o",
+			"meaning": "liver"
+		},
+		{
+			"root": "hidr/o",
+			"meaning": "sweat"
+		},
+		{
+			"root": "hirsut/o",
+			"meaning": "hairy"
+		},
+		{
+			"root": "hirud/i",
+			"meaning": "leech"
+		},
+		{
+			"root": "hirudin/i",
+			"meaning": "leech"
+		},
+		{
+			"root": "hist/o",
+			"meaning": "tissue"
+		},
+		{
+			"root": "hormon/o",
+			"meaning": "hormone"
+		},
+		{
+			"root": "humer/o",
+			"meaning": "humerus"
+		},
+		{
+			"root": "hyal/o",
+			"meaning": "resembling glass, glassy"
+		},
+		{
+			"root": "hydr/o",
+			"meaning": "water, hydrogen"
+		},
+		{
+			"root": "hygr/o",
+			"meaning": "moisture"
+		},
+		{
+			"root": "hymen/o",
+			"meaning": "hymen"
+		},
+		{
+			"root": "hypn/o",
+			"meaning": "sleep"
+		},
+		{
+			"root": "hypothalam/o",
+			"meaning": "hypothalamus"
+		},
+		{
+			"root": "hyster/o",
+			"meaning": "uterus"
+		},
+		{
+			"root": "iatr/o",
+			"meaning": "treatment, physician"
+		},
+		{
+			"root": "ichthy/o",
+			"meaning": "fish"
+		},
+		{
+			"root": "icter/o",
+			"meaning": "jaundice"
+		},
+		{
+			"root": "ide/o",
+			"meaning": "idea, mental images"
+		},
+		{
+			"root": "idi/o",
+			"meaning": "individual, distinct, unknown"
+		},
+		{
+			"root": "ile/o",
+			"meaning": "ileum"
+		},
+		{
+			"root": "ili/o",
+			"meaning": "ilium"
+		},
+		{
+			"root": "immun/o",
+			"meaning": "protection, immune"
+		},
+		{
+			"root": "inguin/o",
+			"meaning": "groin"
+		},
+		{
+			"root": "iod/o",
+			"meaning": "iodine"
+		},
+		{
+			"root": "ion/o",
+			"meaning": "ion"
+		},
+		{
+			"root": "ir/o",
+			"meaning": "iris"
+		},
+		{
+			"root": "irid/o",
+			"meaning": "iris"
+		},
+		{
+			"root": "isch/o",
+			"meaning": "supress, restrain"
+		},
+		{
+			"root": "ischi/o",
+			"meaning": "ischium"
+		},
+		{
+			"root": "is/o",
+			"meaning": "equal"
+		},
+		{
+			"root": "ixod/i",
+			"meaning": "ticks"
+		},
+		{
+			"root": "jaund/o",
+			"meaning": "yellow"
+		},
+		{
+			"root": "jejun/o",
+			"meaning": "jejunum"
+		},
+		{
+			"root": "kal/i",
+			"meaning": "potassium"
+		},
+		{
+			"root": "kary/o",
+			"meaning": "nucleus"
+		},
+		{
+			"root": "kel/o",
+			"meaning": "tumor, fibrous growth"
+		},
+		{
+			"root": "ken/o",
+			"meaning": "empty"
+		},
+		{
+			"root": "kerat/o",
+			"meaning": "horny tissue, cornea"
+		},
+		{
+			"root": "keton/o",
+			"meaning": "ketones"
+		},
+		{
+			"root": "kinesi/o",
+			"meaning": "movement"
+		},
+		{
+			"root": "klept/o",
+			"meaning": "theft, stealing"
+		},
+		{
+			"root": "koil/o",
+			"meaning": "hollow, concave, depressed"
+		},
+		{
+			"root": "kraur/o",
+			"meaning": "dry"
+		},
+		{
+			"root": "kyph/o",
+			"meaning": "humpback"
+		},
+		{
+			"root": "lacrim/o",
+			"meaning": "tear, lacrimal duct"
+		},
+		{
+			"root": "lact/o",
+			"meaning": "milk"
+		},
+		{
+			"root": "lal/o",
+			"meaning": "speech, babble"
+		},
+		{
+			"root": "lamin/o",
+			"meaning": "lamina"
+		},
+		{
+			"root": "lampr/o",
+			"meaning": "clear"
+		},
+		{
+			"root": "lapar/o",
+			"meaning": "abdomen, abdominal wall"
+		},
+		{
+			"root": "laryng/o",
+			"meaning": "larynx"
+		},
+		{
+			"root": "later/o",
+			"meaning": "side"
+		},
+		{
+			"root": "laxat/o",
+			"meaning": "to slacken, relax, loosen"
+		},
+		{
+			"root": "lecith/o",
+			"meaning": "yolk, ovum"
+		},
+		{
+			"root": "lei/o",
+			"meaning": "smooth"
+		},
+		{
+			"root": "lepid/o",
+			"meaning": "flakes, scales"
+		},
+		{
+			"root": "lepr/o",
+			"meaning": "leprosy"
+		},
+		{
+			"root": "lept/o",
+			"meaning": "slender, thin, delicate"
+		},
+		{
+			"root": "letharg/o",
+			"meaning": "drowsiness"
+		},
+		{
+			"root": "leuk/o",
+			"meaning": "white"
+		},
+		{
+			"root": "lien/o",
+			"meaning": "spleen"
+		},
+		{
+			"root": "ligament/o",
+			"meaning": "ligament"
+		},
+		{
+			"root": "ligat/o",
+			"meaning": "binding, tying"
+		},
+		{
+			"root": "lim/o",
+			"meaning": "hunger"
+		},
+		{
+			"root": "lingu/o",
+			"meaning": "tongue"
+		},
+		{
+			"root": "lip/o",
+			"meaning": "fat"
+		},
+		{
+			"root": "lith/o",
+			"meaning": "stone, calculus"
+		},
+		{
+			"root": "lob/o",
+			"meaning": "lobe"
+		},
+		{
+			"root": "logad/o",
+			"meaning": "whites of the eyes"
+		},
+		{
+			"root": "log/o",
+			"meaning": "word, speech, thought"
+		},
+		{
+			"root": "loph/o",
+			"meaning": "ridge"
+		},
+		{
+			"root": "lord/o",
+			"meaning": "curvature, bending"
+		},
+		{
+			"root": "lox/o",
+			"meaning": "oblique, slanting"
+		},
+		{
+			"root": "luc/i",
+			"meaning": "light"
+		},
+		{
+			"root": "lucid/o",
+			"meaning": "clear"
+		},
+		{
+			"root": "lumb/o",
+			"meaning": "loin"
+		},
+		{
+			"root": "lumin/o",
+			"meaning": "light"
+		},
+		{
+			"root": "lute/o",
+			"meaning": "yellow"
+		},
+		{
+			"root": "luxat/o",
+			"meaning": "dislocate"
+		},
+		{
+			"root": "ly/o",
+			"meaning": "dissolve, loosen"
+		},
+		{
+			"root": "lymph/o",
+			"meaning": "lymph"
+		},
+		{
+			"root": "mamm/o",
+			"meaning": "breast"
+		},
+		{
+			"root": "mast/o",
+			"meaning": "breast"
+		},
+		{
+			"root": "maxill/o",
+			"meaning": "maxilla"
+		},
+		{
+			"root": "medi/o",
+			"meaning": "middle"
+		},
+		{
+			"root": "mediastin/o",
+			"meaning": "mediastinum"
+		},
+		{
+			"root": "medic/o",
+			"meaning": "heal, healing"
+		},
+		{
+			"root": "medull/o",
+			"meaning": "medulla, marrow"
+		},
+		{
+			"root": "mel/o",
+			"meaning": "limbs, limb"
+		},
+		{
+			"root": "melan/o",
+			"meaning": "black"
+		},
+		{
+			"root": "men/o",
+			"meaning": "menses, menstruation"
+		},
+		{
+			"root": "mening/o",
+			"meaning": "meninges, membranes"
+		},
+		{
+			"root": "ment/o",
+			"meaning": "mind"
+		},
+		{
+			"root": "mer/o",
+			"meaning": "part"
+		},
+		{
+			"root": "metall/o",
+			"meaning": "metal"
+		},
+		{
+			"root": "method/o",
+			"meaning": "procedure, technique"
+		},
+		{
+			"root": "metr/o",
+			"meaning": "uterus"
+		},
+		{
+			"root": "mi/o",
+			"meaning": "less, smaller"
+		},
+		{
+			"root": "mis/o",
+			"meaning": "hatred of, aversion"
+		},
+		{
+			"root": "morph/o",
+			"meaning": "shape, form"
+		},
+		{
+			"root": "mort/o",
+			"meaning": "death"
+		},
+		{
+			"root": "muc/o",
+			"meaning": "mucus"
+		},
+		{
+			"root": "muscul/o",
+			"meaning": "muscle"
+		},
+		{
+			"root": "mutilat/o",
+			"meaning": "to maim, disfigure"
+		},
+		{
+			"root": "my/o",
+			"meaning": "muscle"
+		},
+		{
+			"root": "myos/o",
+			"meaning": "muscle"
+		},
+		{
+			"root": "myc/o",
+			"meaning": "fungus"
+		},
+		{
+			"root": "myel/o",
+			"meaning": "bone marrow, spinal cord"
+		},
+		{
+			"root": "myring/o",
+			"meaning": "eardrum"
+		},
+		{
+			"root": "myx/o",
+			"meaning": "mucus"
+		},
+		{
+			"root": "narc/o",
+			"meaning": "numbness, stupor"
+		},
+		{
+			"root": "nas/o",
+			"meaning": "nose"
+		},
+		{
+			"root": "nat/o",
+			"meaning": "birth"
+		},
+		{
+			"root": "natr/o",
+			"meaning": "sodium"
+		},
+		{
+			"root": "necr/o",
+			"meaning": "death"
+		},
+		{
+			"root": "nephr/o",
+			"meaning": "kidney"
+		},
+		{
+			"root": "neur/o",
+			"meaning": "nerve"
+		},
+		{
+			"root": "neutr/o",
+			"meaning": "nev/o"
+		},
+		{
+			"root": "noct/i",
+			"meaning": "night"
+		},
+		{
+			"root": "nod/o",
+			"meaning": "knot"
+		},
+		{
+			"root": "nom/o",
+			"meaning": "custom, law"
+		},
+		{
+			"root": "norm/o",
+			"meaning": "normal, usual"
+		},
+		{
+			"root": "nos/o",
+			"meaning": "disease"
+		},
+		{
+			"root": "not/o",
+			"meaning": "the back"
+		},
+		{
+			"root": "nucle/o",
+			"meaning": "nucleus"
+		},
+		{
+			"root": "nutri/o",
+			"meaning": "nourish"
+		},
+		{
+			"root": "nutrit/o",
+			"meaning": "nourish"
+		},
+		{
+			"root": "nyct/o",
+			"meaning": "night"
+		}
+	]
+}
