@@ -2,7 +2,7 @@
 	"suffixes": [
 		{
 			"suffix": "-agogue",
-			"meaning": "producer, leader"
+			"meaning": ["producer, leader"]
 		},
 		{
 			"suffix": "-agra",
@@ -26,7 +26,7 @@
 		},
 		{
 			"suffix": "-apheresis",
-			"meaning": "seperation, removal"
+			"meaning": ["seperation, removal"]
 		},
 		{
 			"suffix": "-arche",
@@ -34,7 +34,7 @@
 		},
 		{
 			"suffix": "-assay",
-			"meaning": "to examine, analyze"
+			"meaning": ["to examine, analyze"]
 		},
 		{
 			"suffix": "-asthenia",
@@ -42,7 +42,7 @@
 		},
 		{
 			"suffix": "-atresia",
-			"meaning": "closure, occlusion"
+			"meaning": ["closure, occlusion"]
 		},
 		{
 			"suffix": "-basia",
@@ -50,7 +50,7 @@
 		},
 		{
 			"suffix": "-blast",
-			"meaning": "early embryonic stage, immature"
+			"meaning": ["early embryonic stage, immature"]
 		},
 		{
 			"suffix": "-bulia",
@@ -82,7 +82,7 @@
 		},
 		{
 			"suffix": "-cele",
-			"meaning": "hernia, swelling"
+			"meaning": ["hernia, swelling"]
 		},
 		{
 			"suffix": "-centesis",
@@ -106,7 +106,7 @@
 		},
 		{
 			"suffix": "-cide",
-			"meaning": "killing, agent which kills"
+			"meaning": ["killing, agent which kills"]
 		},
 		{
 			"suffix": "-clasis",
@@ -118,7 +118,7 @@
 		},
 		{
 			"suffix": "-clysis",
-			"meaning": "irrigation, washing"
+			"meaning": ["irrigation, washing"]
 		},
 		{
 			"suffix": "-coccus",
@@ -134,7 +134,7 @@
 		},
 		{
 			"suffix": "-crasia",
-			"meaning": "mixture(good or bad), temperament"
+			"meaning": ["mixture(good or bad), temperament"]
 		},
 		{
 			"suffix": "-crit",
@@ -154,7 +154,7 @@
 		},
 		{
 			"suffix": "-desis",
-			"meaning": "surgical fixation, fusion"
+			"meaning": ["surgical fixation, fusion"]
 		},
 		{
 			"suffix": "-didymus",
@@ -170,11 +170,11 @@
 		},
 		{
 			"suffix": "-ectasis",
-			"meaning": "dilation, expansion"
+			"meaning": ["dilation, expansion"]
 		},
 		{
 			"suffix": "-ectasia",
-			"meaning": "dilation, expansion"
+			"meaning": ["dilation, expansion"]
 		},
 		{
 			"suffix": "-edema",
@@ -190,31 +190,31 @@
 		},
 		{
 			"suffix": "-emphraxis",
-			"meaning": "stoppage, obstruction"
+			"meaning": ["stoppage, obstruction"]
 		},
 		{
 			"suffix": "-esthesia",
-			"meaning": "sensation, feeling"
+			"meaning": ["sensation, feeling"]
 		},
 		{
 			"suffix": "-facient",
-			"meaning": "to cause, make happen"
+			"meaning": ["to cause, make happen"]
 		},
 		{
 			"suffix": "-form",
-			"meaning": "specified shape, form"
+			"meaning": ["specified shape, form"]
 		},
 		{
 			"suffix": "-gen",
-			"meaning": "producing, generating"
+			"meaning": ["producing, generating"]
 		},
 		{
 			"suffix": "-genesis",
-			"meaning": "production, formation"
+			"meaning": ["production, formation"]
 		},
 		{
 			"suffix": "-genic",
-			"meaning": "produced by, forming"
+			"meaning": ["produced by, forming"]
 		},
 		{
 			"suffix": "-geusia",
@@ -274,11 +274,11 @@
 		},
 		{
 			"suffix": "-labile",
-			"meaning": "unstable, perishable"
+			"meaning": ["unstable, perishable"]
 		},
 		{
 			"suffix": "-lalia",
-			"meaning": "speech, babble"
+			"meaning": ["speech, babble"]
 		},
 		{
 			"suffix": "-legia",
@@ -294,11 +294,11 @@
 		},
 		{
 			"suffix": "-lexia",
-			"meaning": "speech, word"
+			"meaning": ["speech, word"]
 		},
 		{
 			"suffix": "-lipsis",
-			"meaning": "omit, fail"
+			"meaning": ["omit, fail"]
 		},
 		{
 			"suffix": "-listhesis",
@@ -326,7 +326,7 @@
 		},
 		{
 			"suffix": "-lysis",
-			"meaning": "dissolution, breakdown"
+			"meaning": ["dissolution, breakdown"]
 		},
 		{
 			"suffix": "-malacia",
@@ -338,7 +338,7 @@
 		},
 		{
 			"suffix": "-masesis",
-			"meaning": "mastication, chewing"
+			"meaning": ["mastication, chewing"]
 		},
 		{
 			"suffix": "-megaly",
@@ -354,7 +354,7 @@
 		},
 		{
 			"suffix": "-mimesis",
-			"meaning": "imitation, simulation"
+			"meaning": ["imitation, simulation"]
 		},
 		{
 			"suffix": "-mnesia",
@@ -362,11 +362,11 @@
 		},
 		{
 			"suffix": "-motor",
-			"meaning": "movement, motion"
+			"meaning": ["movement, motion"]
 		},
 		{
 			"suffix": "-noia",
-			"meaning": "mind, will"
+			"meaning": ["mind, will"]
 		}
 	]
 }

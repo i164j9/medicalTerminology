@@ -2,7 +2,7 @@
 	"prefixes": [
 		{
 			"prefix": "a-,an-",
-			"meaning": "without, not"
+			"meaning": ["without","not"]
 		},
 		{
 			"prefix": "ab-",
@@ -14,27 +14,27 @@
 		},
 		{
 			"prefix": "ad-",
-			"meaning": "toward, near"
+			"meaning": ["toward","near"]
 		},
 		{
 			"prefix": "allo-",
-			"meaning": "other, different"
+			"meaning": ["other","different"]
 		},
 		{
 			"prefix": "ambi-",
-			"meaning": "around, on both sides, about"
+			"meaning": ["around","on both sides","about"]
 		},
 		{
 			"prefix": "ana-",
-			"meaning": "up, backward, against"
+			"meaning": ["up","backward","against"]
 		},
 		{
 			"prefix": "amphi-",
-			"meaning": "around, on both sides"
+			"meaning": ["around","on both sides"]
 		},
 		{
 			"prefix": "ante-",
-			"meaning": "before, forward"
+			"meaning": ["before","forward"]
 		},
 		{
 			"prefix": "anti-",
@@ -42,15 +42,15 @@
 		},
 		{
 			"prefix": "apo-",
-			"meaning": "away, seperation"
+			"meaning": ["away","seperation"]
 		},
 		{
 			"prefix": "atmo-",
-			"meaning": "steam, vapor"
+			"meaning": ["steam","vapor"]
 		},
 		{
 			"prefix": "atreto-",
-			"meaning": "closed, lacking an opening"
+			"meaning": ["closed","lacking an opening"]
 		},
 		{
 			"prefix": "auto-",
@@ -58,15 +58,15 @@
 		},
 		{
 			"prefix": "bary-",
-			"meaning": "heavy, dull, hard"
+			"meaning": ["heavy","dull","hard"]
 		},
 		{
 			"prefix": "bathy-",
-			"meaning": "deep, depth"
+			"meaning": ["deep","depth"]
 		},
 		{
 			"prefix": "batho-",
-			"meaning": "deep, depth"
+			"meaning": ["deep","depth"]
 		},
 		{
 			"prefix": "bi-",
@@ -74,7 +74,7 @@
 		},
 		{
 			"prefix": "bio-",
-			"meaning": "life, living"
+			"meaning": ["life","living"]
 		},
 		{
 			"prefix": "brachy-",
@@ -86,7 +86,7 @@
 		},
 		{
 			"prefix": "cata-",
-			"meaning": "down, under"
+			"meaning": ["down","under"]
 		},
 		{
 			"prefix": "centi-",
@@ -102,15 +102,15 @@
 		},
 		{
 			"prefix": "com-",
-			"meaning": "with, together"
+			"meaning": ["with","together"]
 		},
 		{
 			"prefix": "con-",
-			"meaning": "with, together"
+			"meaning": ["with","together"]
 		},
 		{
 			"prefix": "contra-",
-			"meaning": "against, opposite"
+			"meaning": ["against","opposite"]
 		},
 		{
 			"prefix": "deca-",
@@ -130,23 +130,23 @@
 		},
 		{
 			"prefix": "dia-",
-			"meaning": "through, throughout"
+			"meaning": ["through","throughout"]
 		},
 		{
 			"prefix": "dis-",
-			"meaning": "apart, to separate"
+			"meaning": ["apart","to separate"]
 		},
 		{
 			"prefix": "dys-",
-			"meaning": "bad, difficult, painful"
+			"meaning": ["bad","difficult","painful"]
 		},
 		{
 			"prefix": "ec-",
-			"meaning": "outside, out"
+			"meaning": ["outside","out"]
 		},
 		{
 			"prefix": "ecto-",
-			"meaning": "outside, out"
+			"meaning": ["outside","out"]
 		},
 		{
 			"prefix": "echo-",
@@ -158,19 +158,19 @@
 		},
 		{
 			"prefix": "en-",
-			"meaning": "inside, within"
+			"meaning": ["inside","within"]
 		},
 		{
 			"prefix": "endo-",
-			"meaning": "inside, within"
+			"meaning": ["inside","within"]
 		},
 		{
 			"prefix": "epi-",
-			"meaning": "above, over, upon"
+			"meaning": ["above","over","upon"]
 		},
 		{
 			"prefix": "equi-",
-			"meaning": "equality, equal"
+			"meaning": ["equality","equal"]
 		},
 		{
 			"prefix": "eso-",
@@ -178,15 +178,15 @@
 		},
 		{
 			"prefix": "eu-",
-			"meaning": "good, normal, well"
+			"meaning": ["good","normal","well"]
 		},
 		{
 			"prefix": "eury-",
-			"meaning": "wide, broad"
+			"meaning": ["wide","broad"]
 		},
 		{
 			"prefix": "ex-",
-			"meaning": "out, away from"
+			"meaning": ["out","away from"]
 		},
 		{
 			"prefix": "exa-",
@@ -194,7 +194,7 @@
 		},
 		{
 			"prefix": "exo-",
-			"meaning": "outside, outward"
+			"meaning": ["outside","outward"]
 		},
 		{
 			"prefix": "extra-",
@@ -206,7 +206,7 @@
 		},
 		{
 			"prefix": "fore-",
-			"meaning": "before, in front"
+			"meaning": ["before","in front"]
 		},
 		{
 			"prefix": "galvano-",
@@ -226,7 +226,7 @@
 		},
 		{
 			"prefix": "hetero-",
-			"meaning": "different, other"
+			"meaning": ["different","other"]
 		},
 		{
 			"prefix": "hex-",
@@ -242,23 +242,23 @@
 		},
 		{
 			"prefix": "holo-",
-			"meaning": "entire, complete"
+			"meaning": ["entire","complete"]
 		},
 		{
 			"prefix": "homeo-",
-			"meaning": "likeness, constant, sameness"
+			"meaning": ["likeness","constant","sameness"]
 		},
 		{
 			"prefix": "homo-",
-			"meaning": "same, similiar"
+			"meaning": ["same","similiar"]
 		},
 		{
 			"prefix": "hyper-",
-			"meaning": "above, beyond, excessive"
+			"meaning": ["above","beyond","excessive"]
 		},
 		{
 			"prefix": "hypo-",
-			"meaning": "under, deficient, below"
+			"meaning": ["under","deficient","below"]
 		},
 		{
 			"prefix": "hypsi-",
@@ -266,7 +266,7 @@
 		},
 		{
 			"prefix": "infra-",
-			"meaning": "below, beneath"
+			"meaning": ["below","beneath"]
 		},
 		{
 			"prefix": "inter-",
@@ -282,7 +282,7 @@
 		},
 		{
 			"prefix": "ithy-",
-			"meaning": "erect, straight"
+			"meaning": ["erect","straight"]
 		},
 		{
 			"prefix": "juxta-",
@@ -310,11 +310,11 @@
 		},
 		{
 			"prefix": "meli-",
-			"meaning": "honey, sugar"
+			"meaning": ["honey","sugar"]
 		},
 		{
 			"prefix": "melit-",
-			"meaning": "honey, sugar"
+			"meaning": ["honey","sugar"]
 		},
 		{
 			"prefix": "meso-",
@@ -322,11 +322,11 @@
 		},
 		{
 			"prefix": "meta-",
-			"meaning": "after, beyond, change"
+			"meaning": ["after","beyond","change"]
 		},
 		{
 			"prefix": "micro-",
-			"meaning": "one millionth (10^-6), small"
+			"meaning": ["one millionth (10^-6)","small"]
 		},
 		{
 			"prefix": "mili-",
@@ -342,7 +342,7 @@
 		},
 		{
 			"prefix": "multi-",
-			"meaning": "many, much"
+			"meaning": ["many","much"]
 		},
 		{
 			"prefix": "nano-",
@@ -354,7 +354,7 @@
 		},
 		{
 			"prefix": "noci-",
-			"meaning": "to cause harm, injury or pain"
+			"meaning": ["to cause harm","injury or pain"]
 		},
 		{
 			"prefix": "nomen-",
