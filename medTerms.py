@@ -1,31 +1,81 @@
 import json
-from jsonpath_ng import jsonpath
+import random
 
-from io import StringIO
-mydict={}
-prefix = open("C:\\Users\\dev\\Documents\\medicalTerminology\\prefix.json",'r')
-root = open("C:\\Users\\dev\\Documents\\medicalTerminology\\roots.json",'r')
-suffix = open("C:\\Users\\dev\\Documents\\medicalTerminology\\suffix.json",'r')
+myprefix=[]
+myprefixmeaning=[]
+myrootwords=[]
+myrootmeaning=[]
+mysuffix=[]
+mysuffixmeaning=[]
+myquestion=[]
 
-pre = json.load(prefix)
-rot = json.load(root)
-suf = json.load(suffix)
+num_correct = 0
+num_wrong = 0
 
-print(len(rot))
-for i in rot['roots']:
-    mydict..append(i)
-    print(i)
+pre =""
+roots=""
+suf=""
 
+with open("C:\\Users\\dev\\Documents\\medicalTerminology\\prefix.json",'r') as prefix:
+    pre = json.load(prefix)
+
+with open("C:\\Users\\dev\\Documents\\medicalTerminology\\root.json",'r') as root:
+    roots = json.load(root)
+
+with open("C:\\Users\\dev\\Documents\\medicalTerminology\\suffix.json",'r') as suffix:
+    suf = json.load(suffix)
+
+prefix.close()
 root.close()
+suffix.close()
 
-for i in mylist:
-    entry = mylist
-    print(entry)
-    
+print(type(pre))
+
+myrootwords = roots['rootwords']['word']
+rootmeaning = roots['rootwords']['meaning']
 
 
-# from io import StringIO
+# for i in range(0,len(pre['prefixes']),1):
+#     myprefix.append(pre['prefixes'][i]['prefix'])
+#     myprefixmeaning.append(pre['prefixes'][i]['meaning'])
 
-# io = StringIO('["streaming API"]')
+# for i in range(0,len(rot['roots']),1):
+#     myrootwords.append(rot['roots'][i]['root'])
+#     myrootmeaning.append(rot['roots'][i]['meaning'])
 
-# print(json.load(io))
+
+# for i in range(0,len(suf['suffixes']),1):
+#     mysuffix.append(suf['suffixes'][i]['suffix'])
+#     mysuffixmeaning.append(suf['suffixes'][i]['meaning'])
+
+
+# def showwords(words):
+#     for w in words:
+#         print(w)
+
+
+# def get_random_word():
+#     randint = random.randint(0,len(myrootwords))
+#     myquestion.append(rot['roots'][randint]['root'])
+#     myquestion.append(rot['roots'][randint]['meaning'])
+
+
+# def show_question():
+#     ans=""
+#     while ans != 'quit':
+#         ans = input("what is the meaning of: " + myquestion[0]+"\n")
+#         if ans == myquestion[1]:
+#             myquestion.clear()
+#             print("You are correct!")
+#             num_correct =+ 1
+#             get_random_word()
+#         elif ans == quit:
+#             return
+#         else:
+#             print("You are wrong...")
+#             print(myquestion[1])
+#             myquestion.clear()
+#             get_random_word()
+
+# get_random_word()
+# show_question()
