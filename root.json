@@ -2,7 +2,7 @@
 	"rootwords": [
 		{
 			"word": "abdomin/o",
-			"meaning": "abdomen"
+			"meaning": ["abdomen"]
 		},
 		{
 			"word": "ablat/o",
@@ -10,11 +10,11 @@
 		},
 		{
 			"word": "abrado/o",
-			"meaning": "to scrape off"
+			"meaning": ["to scrape off"]
 		},
 		{
 			"word": "abras/o",
-			"meaning": "to scrape off"
+			"meaning": ["to scrape off"]
 		},
 		{
 			"word": "acanth/o",
@@ -22,7 +22,7 @@
 		},
 		{
 			"word": "acar/o",
-			"meaning": "mites"
+			"meaning": ["mites"]
 		},
 		{
 			"word": "acid/o",
@@ -30,7 +30,7 @@
 		},
 		{
 			"word": "acous/o",
-			"meaning": "hearing"
+			"meaning": ["hearing"]
 		},
 		{
 			"word": "acoust/o",
@@ -38,7 +38,7 @@
 		},
 		{
 			"word": "acr/o",
-			"meaning": "extremities"
+			"meaning": ["extremities"]
 		},
 		{
 			"word": "actin/o",
@@ -54,19 +54,19 @@
 		},
 		{
 			"word": "aden/o",
-			"meaning": "gland"
+			"meaning": ["gland"]
 		},
 		{
 			"word": "adenoid/o",
-			"meaning": "adenoids"
+			"meaning": ["adenoids"]
 		},
 		{
 			"word": "adip/o",
-			"meaning": "fat"
+			"meaning": ["fat"]
 		},
 		{
 			"word": "arden/o",
-			"meaning": "adrenal glands"
+			"meaning": ["adrenal glands"]
 		},
 		{
 			"word": "aer/o",
@@ -74,15 +74,19 @@
 		},
 		{
 			"word": "agglutin/o",
-			"meaning": "clumping"
+			"meaning": ["clumping"]
 		},
 		{
 			"word": "agit/o",
 			"meaning": ["rapidity","restlessness"]
 		},
 		{
+			"suffix": "alges/o",
+			"meaning": ["pain sensitivity"]
+		},
+		{
 			"word": "alveol/o",
-			"meaning": "alveolus"
+			"meaning": ["alveolus"]
 		},
 		{
 			"word": "ambly/o",
@@ -90,39 +94,39 @@
 		},
 		{
 			"word": "ambul/o",
-			"meaning": "to walk"
+			"meaning": ["to walk"]
 		},
 		{
 			"word": "ammon/o",
-			"meaning": "ammonium"
+			"meaning": ["ammonium"]
 		},
 		{
 			"word": "amni/o",
-			"meaning": "amnion"
+			"meaning": ["amnion"]
 		},
 		{
 			"word": "amyl/o",
-			"meaning": "starch"
+			"meaning": ["starch"]
 		},
 		{
 			"word": "an/o",
-			"meaning": "anus"
+			"meaning": ["anus"]
 		},
 		{
 			"word": "andr/o",
-			"meaning": "male"
+			"meaning": ["male"]
 		},
 		{
 			"word": "aneurysm/o",
-			"meaning": "aneurysm"
+			"meaning": ["aneurysm"]
 		},
 		{
 			"word": "angi/o",
-			"meaning": "vessel"
+			"meaning": ["vessel"]
 		},
 		{
 			"word": "anis/o",
-			"meaning": "unequal"
+			"meaning": ["unequal"]
 		},
 		{
 			"word": "ankyl/o",
@@ -130,11 +134,11 @@
 		},
 		{
 			"word": "anormal/o",
-			"meaning": "irregular"
+			"meaning": ["irregular"]
 		},
 		{
 			"word": "anter/o",
-			"meaning": "front"
+			"meaning": ["front"]
 		},
 		{
 			"word": "anthrac/o",
@@ -146,51 +150,51 @@
 		},
 		{
 			"word": "antr/o",
-			"meaning": "antrum"
+			"meaning": ["antrum"]
 		},
 		{
 			"word": "aort/o",
-			"meaning": "aorta"
+			"meaning": ["aorta"]
 		},
 		{
 			"word": "aphth/o",
-			"meaning": "ulcer"
+			"meaning": ["ulcer"]
 		},
 		{
 			"word": "apic/o",
-			"meaning": "apex"
+			"meaning": ["apex"]
 		},
 		{
 			"word": "aque/o",
-			"meaning": "water"
+			"meaning": ["water"]
 		},
 		{
 			"word": "arachn/o",
-			"meaning": "spider"
+			"meaning": ["spider"]
 		},
 		{
 			"word": "arch/i",
-			"meaning": "first"
+			"meaning": ["first"]
 		},
 		{
 			"word": "arch/e",
-			"meaning": "first"
+			"meaning": ["first"]
 		},
 		{
 			"word": "arteri/o",
-			"meaning": "artery"
+			"meaning": ["artery"]
 		},
 		{
 			"word": "arteriol/o",
-			"meaning": "arteriole"
+			"meaning": ["arteriole"]
 		},
 		{
 			"word": "arthr/o",
-			"meaning": "joint"
+			"meaning": ["joint"]
 		},
 		{
 			"word": "articul/o",
-			"meaning": "joint"
+			"meaning": ["joint"]
 		},
 		{
 			"word": "aspir/o",
@@ -202,7 +206,7 @@
 		},
 		{
 			"word": "asthen/o",
-			"meaning": "weakness"
+			"meaning": ["weakness"]
 		},
 		{
 			"word": "astr/o",
@@ -218,31 +222,31 @@
 		},
 		{
 			"word": "atri/o",
-			"meaning": "atrium"
+			"meaning": ["atrium"]
 		},
 		{
 			"word": "audi/o",
-			"meaning": "hearing"
+			"meaning": ["hearing"]
 		},
 		{
 			"word": "audit/o",
-			"meaning": "hearing"
+			"meaning": ["hearing"]
 		},
 		{
 			"word": "aur/o",
-			"meaning": "ear"
+			"meaning": ["ear"]
 		},
 		{
 			"word": "auricul/o",
-			"meaning": "ear"
+			"meaning": ["ear"]
 		},
 		{
 			"word": "auscult/o",
-			"meaning": "to listen"
+			"meaning": ["to listen"]
 		},
 		{
 			"word": "auscultat/o",
-			"meaning": "to listen"
+			"meaning": ["to listen"]
 		},
 		{
 			"word": "aux/o",
@@ -250,11 +254,11 @@
 		},
 		{
 			"word": "axi/o",
-			"meaning": "axis"
+			"meaning": ["axis"]
 		},
 		{
 			"word": "axill/o",
-			"meaning": "armpit"
+			"meaning": ["armpit"]
 		},
 		{
 			"word": "azot/o",
@@ -262,11 +266,11 @@
 		},
 		{
 			"word": "bacteri/o",
-			"meaning": "bacteria"
+			"meaning": ["bacteria"]
 		},
 		{
 			"word": "balne/o",
-			"meaning": "bath"
+			"meaning": ["bath"]
 		},
 		{
 			"word": "bar/o",
@@ -282,11 +286,11 @@
 		},
 		{
 			"word": "bibli/o",
-			"meaning": "books"
+			"meaning": ["books"]
 		},
 		{
 			"word": "bil/i",
-			"meaning": "bile"
+			"meaning": ["bile"]
 		},
 		{
 			"word": "bi/o",
@@ -298,15 +302,15 @@
 		},
 		{
 			"word": "blenn/o",
-			"meaning": "mucus"
+			"meaning": ["mucus"]
 		},
 		{
 			"word": "belphar/o",
-			"meaning": "eyelid"
+			"meaning": ["eyelid"]
 		},
 		{
 			"word": "brachi/o",
-			"meaning": "arm"
+			"meaning": ["arm"]
 		},
 		{
 			"word": "brom/o",
@@ -314,19 +318,19 @@
 		},
 		{
 			"word": "broncho/o",
-			"meaning": "bronchus"
+			"meaning": ["bronchus"]
 		},
 		{
 			"word": "bronchiol/o",
-			"meaning": "bronchiole"
+			"meaning": ["bronchiole"]
 		},
 		{
 			"word": "bucc/o",
-			"meaning": "cheek"
+			"meaning": ["cheek"]
 		},
 		{
 			"word": "burs/o",
-			"meaning": "bursa"
+			"meaning": ["bursa"]
 		},
 		{
 			"word": "cac/o",
@@ -334,31 +338,31 @@
 		},
 		{
 			"word": "calcane/o",
-			"meaning": "heel"
+			"meaning": ["heel"]
 		},
 		{
 			"word": "calci/o",
-			"meaning": "calcium"
+			"meaning": ["calcium"]
 		},
 		{
 			"word": "calcul/o",
-			"meaning": "to compute"
+			"meaning": ["to compute"]
 		},
 		{
 			"word": "cali/o",
-			"meaning": "calyx"
+			"meaning": ["calyx"]
 		},
 		{
 			"word": "calor/i",
-			"meaning": "heat"
+			"meaning": ["heat"]
 		},
 		{
 			"word": "campt/o",
-			"meaning": "bent"
+			"meaning": ["bent"]
 		},
 		{
 			"word": "capn/o",
-			"meaning": "carbon dioxide"
+			"meaning": ["carbon dioxide"]
 		},
 		{
 			"word": "capsul/o",
@@ -370,23 +374,23 @@
 		},
 		{
 			"word": "carb/o",
-			"meaning": "carbon"
+			"meaning": ["carbon"]
 		},
 		{
 			"word": "carcin/o",
-			"meaning": "cancer"
+			"meaning": ["cancer"]
 		},
 		{
 			"word": "cardi/o",
-			"meaning": "heart"
+			"meaning": ["heart"]
 		},
 		{
 			"word": "cari/o",
-			"meaning": "caries"
+			"meaning": ["caries"]
 		},
 		{
 			"word": "carp/o",
-			"meaning": "wrist"
+			"meaning": ["wrist"]
 		},
 		{
 			"word": "cathar/o",
@@ -398,7 +402,7 @@
 		},
 		{
 			"word": "caud/o",
-			"meaning": "tail"
+			"meaning": ["tail"]
 		},
 		{
 			"word": "caus/o",
@@ -418,23 +422,23 @@
 		},
 		{
 			"word": "cec/o",
-			"meaning": "cecum"
+			"meaning": ["cecum"]
 		},
 		{
 			"word": "celi/o",
-			"meaning": "abdomen"
+			"meaning": ["abdomen"]
 		},
 		{
 			"word": "centr/o",
-			"meaning": "center"
+			"meaning": ["center"]
 		},
 		{
 			"word": "cephal/o",
-			"meaning": "head"
+			"meaning": ["head"]
 		},
 		{
 			"word": "cerebell/o",
-			"meaning": "cerebellum"
+			"meaning": ["cerebellum"]
 		},
 		{
 			"word": "cerebr/o",
@@ -446,11 +450,11 @@
 		},
 		{
 			"word": "cheil/o",
-			"meaning": "lip"
+			"meaning": ["lip"]
 		},
 		{
 			"word": "chil/o",
-			"meaning": "lip"
+			"meaning": ["lip"]
 		},
 		{
 			"word": "chem/o",
@@ -458,15 +462,15 @@
 		},
 		{
 			"word": "chir/o",
-			"meaning": "hand"
+			"meaning": ["hand"]
 		},
 		{
 			"word": "cheir/o",
-			"meaning": "hand"
+			"meaning": ["hand"]
 		},
 		{
 			"word": "chlor/o",
-			"meaning": "green"
+			"meaning": ["green"]
 		},
 		{
 			"word": "chol/e",
@@ -474,19 +478,19 @@
 		},
 		{
 			"word": "choledoch/o",
-			"meaning": "common bile duct"
+			"meaning": ["common bile duct"]
 		},
 		{
 			"word": "chondr/o",
-			"meaning": "cartilage"
+			"meaning": ["cartilage"]
 		},
 		{
 			"word": "chori/o",
-			"meaning": "chorion"
+			"meaning": ["chorion"]
 		},
 		{
 			"word": "chrom/o",
-			"meaning": "color"
+			"meaning": ["color"]
 		},
 		{
 			"word": "chron/o",
@@ -494,19 +498,19 @@
 		},
 		{
 			"word": "chrys/o",
-			"meaning": "gold"
+			"meaning": ["gold"]
 		},
 		{
 			"word": "chyl/o",
-			"meaning": "chyle"
+			"meaning": ["chyle"]
 		},
 		{
 			"word": "cirrh/o",
-			"meaning": "orange-yellow"
+			"meaning": ["orange-yellow"]
 		},
 		{
 			"word": "cleid/o",
-			"meaning": "clavicle"
+			"meaning": ["clavicle"]
 		},
 		{
 			"word": "clin/o",
@@ -518,27 +522,27 @@
 		},
 		{
 			"word": "coccyg/o",
-			"meaning": "coccyx"
+			"meaning": ["coccyx"]
 		},
 		{
 			"word": "cochle/o",
-			"meaning": "cochlea"
+			"meaning": ["cochlea"]
 		},
 		{
 			"word": "colo/o",
-			"meaning": "colon"
+			"meaning": ["colon"]
 		},
 		{
 			"word": "colp/o",
-			"meaning": "vagina"
+			"meaning": ["vagina"]
 		},
 		{
 			"word": "coni/o",
-			"meaning": "dust"
+			"meaning": ["dust"]
 		},
 		{
 			"word": "conjunctiv/o",
-			"meaning": "conjunctiva"
+			"meaning": ["conjunctiva"]
 		},
 		{
 			"word": "consci/o",
@@ -550,43 +554,43 @@
 		},
 		{
 			"word": "contus/o",
-			"meaning": "to bruise"
+			"meaning": ["to bruise"]
 		},
 		{
 			"word": "cor/o",
-			"meaning": "pupil"
+			"meaning": ["pupil"]
 		},
 		{
 			"word": "corne/o",
-			"meaning": "cornea"
+			"meaning": ["cornea"]
 		},
 		{
 			"word": "coron/o",
-			"meaning": "heart"
+			"meaning": ["heart"]
 		},
 		{
 			"word": "corpor/o",
-			"meaning": "body"
+			"meaning": ["body"]
 		},
 		{
 			"word": "cortic/o",
-			"meaning": "cortex"
+			"meaning": ["cortex"]
 		},
 		{
 			"word": "cost/o",
-			"meaning": "rib"
+			"meaning": ["rib"]
 		},
 		{
 			"word": "cox/o",
-			"meaning": "hip"
+			"meaning": ["hip"]
 		},
 		{
 			"word": "crani/o",
-			"meaning": "skull"
+			"meaning": ["skull"]
 		},
 		{
 			"word": "circ/o",
-			"meaning": "ring"
+			"meaning": ["ring"]
 		},
 		{
 			"word": "crin/o",
@@ -598,7 +602,7 @@
 		},
 		{
 			"word": "cry/o",
-			"meaning": "cold"
+			"meaning": ["cold"]
 		},
 		{
 			"word": "crypt/o",
@@ -614,7 +618,7 @@
 		},
 		{
 			"word": "culd/o",
-			"meaning": "cul-de-sac"
+			"meaning": ["cul-de-sac"]
 		},
 		{
 			"word": "cune/o",
@@ -622,15 +626,15 @@
 		},
 		{
 			"word": "cupr/o",
-			"meaning": "copper"
+			"meaning": ["copper"]
 		},
 		{
 			"word": "cutane/o",
-			"meaning": "skin"
+			"meaning": ["skin"]
 		},
 		{
 			"word": "cyan/o",
-			"meaning": "blue"
+			"meaning": ["blue"]
 		},
 		{
 			"word": "cycl/o",
@@ -642,11 +646,11 @@
 		},
 		{
 			"word": "cyt/o",
-			"meaning": "cell"
+			"meaning": ["cell"]
 		},
 		{
 			"word": "dacry/o",
-			"meaning": "tear"
+			"meaning": ["tear"]
 		},
 		{
 			"word": "dactyl/o",
@@ -654,27 +658,27 @@
 		},
 		{
 			"word": "dem/o",
-			"meaning": "people"
+			"meaning": ["people"]
 		},
 		{
 			"word": "dent/i",
-			"meaning": "tooth"
+			"meaning": ["tooth"]
 		},
 		{
 			"word": "derm/o",
-			"meaning": "skin"
+			"meaning": ["skin"]
 		},
 		{
 			"word": "dermat/o",
-			"meaning": "skin"
+			"meaning": ["skin"]
 		},
 		{
 			"word": "desicc/o",
-			"meaning": "to dry"
+			"meaning": ["to dry"]
 		},
 		{
 			"word": "desm/o",
-			"meaning": "ligament"
+			"meaning": ["ligament"]
 		},
 		{
 			"word": "deuter/o",
@@ -682,7 +686,7 @@
 		},
 		{
 			"word": "dextr/o",
-			"meaning": "right"
+			"meaning": ["right"]
 		},
 		{
 			"word": "didym/o",
@@ -694,39 +698,39 @@
 		},
 		{
 			"word": "dipl/o",
-			"meaning": "double"
+			"meaning": ["double"]
 		},
 		{
 			"word": "dips/o",
-			"meaning": "thirst"
+			"meaning": ["thirst"]
 		},
 		{
 			"word": "dist/o",
-			"meaning": "distant"
+			"meaning": ["distant"]
 		},
 		{
 			"word": "dolich/o",
-			"meaning": "long"
+			"meaning": ["long"]
 		},
 		{
 			"word": "dolor/o",
-			"meaning": "pain"
+			"meaning": ["pain"]
 		},
 		{
 			"word": "dors/o",
-			"meaning": "back"
+			"meaning": ["back"]
 		},
 		{
 			"word": "drom/o",
-			"meaning": "running"
+			"meaning": ["running"]
 		},
 		{
 			"word": "duct/o",
-			"meaning": "to lead"
+			"meaning": ["to lead"]
 		},
 		{
 			"word": "duoden/o",
-			"meaning": "duodenum"
+			"meaning": ["duodenum"]
 		},
 		{
 			"word": "dynam/o",
@@ -738,23 +742,23 @@
 		},
 		{
 			"word": "ectr/o",
-			"meaning": "congenital absence"
+			"meaning": ["congenital absence"]
 		},
 		{
 			"word": "ele/o",
-			"meaning": "oil"
+			"meaning": ["oil"]
 		},
 		{
 			"word": "electr/o",
-			"meaning": "electricity"
+			"meaning": ["electricity"]
 		},
 		{
 			"word": "embol/o",
-			"meaning": "embolus"
+			"meaning": ["embolus"]
 		},
 		{
 			"word": "embry/o",
-			"meaning": "embryo"
+			"meaning": ["embryo"]
 		},
 		{
 			"word": "emmetr/o",
@@ -762,7 +766,7 @@
 		},
 		{
 			"word": "encephal/o",
-			"meaning": "brain"
+			"meaning": ["brain"]
 		},
 		{
 			"word": "enter/o",
@@ -774,23 +778,23 @@
 		},
 		{
 			"word": "epididym/o",
-			"meaning": "epididymis"
+			"meaning": ["epididymis"]
 		},
 		{
 			"word": "epiglott/o",
-			"meaning": "epiglottis"
+			"meaning": ["epiglottis"]
 		},
 		{
 			"word": "episi/o",
-			"meaning": "vulva"
+			"meaning": ["vulva"]
 		},
 		{
 			"word": "erethism/o",
-			"meaning": "irritation"
+			"meaning": ["irritation"]
 		},
 		{
 			"word": "erg/o",
-			"meaning": "work"
+			"meaning": ["work"]
 		},
 		{
 			"word": "erythem/o",
@@ -798,15 +802,15 @@
 		},
 		{
 			"word": "erythr/o",
-			"meaning": "red"
+			"meaning": ["red"]
 		},
 		{
 			"word": "eschar/o",
-			"meaning": "scab"
+			"meaning": ["scab"]
 		},
 		{
 			"word": "esophag/o",
-			"meaning": "esophagus"
+			"meaning": ["esophagus"]
 		},
 		{
 			"word": "esthesi/o",
@@ -814,39 +818,39 @@
 		},
 		{
 			"word": "eti/o",
-			"meaning": "cause"
+			"meaning": ["cause"]
 		},
 		{
 			"word": "excit/o",
-			"meaning": "to arouse"
+			"meaning": ["to arouse"]
 		},
 		{
 			"word": "faci/o",
-			"meaning": "face"
+			"meaning": ["face"]
 		},
 		{
 			"word": "fasci/o",
-			"meaning": "fascia"
+			"meaning": ["fascia"]
 		},
 		{
 			"word": "febr/i",
-			"meaning": "fever"
+			"meaning": ["fever"]
 		},
 		{
 			"word": "femor/o",
-			"meaning": "femur"
+			"meaning": ["femur"]
 		},
 		{
 			"word": "ferr/i",
-			"meaning": "iron"
+			"meaning": ["iron"]
 		},
 		{
 			"word": "ferr/o",
-			"meaning": "iron"
+			"meaning": ["iron"]
 		},
 		{
 			"word": "fet/o",
-			"meaning": "fetus"
+			"meaning": ["fetus"]
 		},
 		{
 			"word": "fibr/o",
@@ -854,7 +858,7 @@
 		},
 		{
 			"word": "fibul/o",
-			"meaning": "fibula"
+			"meaning": ["fibula"]
 		},
 		{
 			"word": "fil/o",
@@ -870,31 +874,31 @@
 		},
 		{
 			"word": "fimbria/e",
-			"meaning": "thread-like"
+			"meaning": ["thread-like"]
 		},
 		{
 			"word": "flav/o",
-			"meaning": "yellow"
+			"meaning": ["yellow"]
 		},
 		{
 			"word": "flex/o",
-			"meaning": "bend"
+			"meaning": ["bend"]
 		},
 		{
 			"word": "flect/o",
-			"meaning": "bend"
+			"meaning": ["bend"]
 		},
 		{
 			"word": "flu/o",
-			"meaning": "to flow"
+			"meaning": ["to flow"]
 		},
 		{
 			"word": "flux/o",
-			"meaning": "to flow"
+			"meaning": ["to flow"]
 		},
 		{
 			"word": "fluor/o",
-			"meaning": "fluorine"
+			"meaning": ["fluorine"]
 		},
 		{
 			"word": "follicul/o",
@@ -902,15 +906,15 @@
 		},
 		{
 			"word": "frig/o",
-			"meaning": "cold"
+			"meaning": ["cold"]
 		},
 		{
 			"word": "frigid/o",
-			"meaning": "cold"
+			"meaning": ["cold"]
 		},
 		{
 			"word": "funct/o",
-			"meaning": "performance"
+			"meaning": ["performance"]
 		},
 		{
 			"word": "fung/i",
@@ -918,15 +922,15 @@
 		},
 		{
 			"word": "fusc/o",
-			"meaning": "dark brown"
+			"meaning": ["dark brown"]
 		},
 		{
 			"word": "galact/o",
-			"meaning": "milk"
+			"meaning": ["milk"]
 		},
 		{
 			"word": "gamet/o",
-			"meaning": "gamete"
+			"meaning": ["gamete"]
 		},
 		{
 			"word": "gam/o",
@@ -934,15 +938,15 @@
 		},
 		{
 			"word": "gangli/o",
-			"meaning": "ganglion"
+			"meaning": ["ganglion"]
 		},
 		{
 			"word": "ganglion/o",
-			"meaning": "ganglion"
+			"meaning": ["ganglion"]
 		},
 		{
 			"word": "gastr/o",
-			"meaning": "stomach"
+			"meaning": ["stomach"]
 		},
 		{
 			"word": "ge/o",
@@ -954,7 +958,7 @@
 		},
 		{
 			"word": "gemell/o",
-			"meaning": "twins"
+			"meaning": ["twins"]
 		},
 		{
 			"word": "gen/o",
@@ -962,11 +966,11 @@
 		},
 		{
 			"word": "geni/o",
-			"meaning": "chin"
+			"meaning": ["chin"]
 		},
 		{
 			"word": "genit/o",
-			"meaning": "reproduction"
+			"meaning": ["reproduction"]
 		},
 		{
 			"word": "ger/o",
@@ -978,19 +982,19 @@
 		},
 		{
 			"word": "gest/o",
-			"meaning": "to bear"
+			"meaning": ["to bear"]
 		},
 		{
 			"word": "gestat/o",
-			"meaning": "to bear"
+			"meaning": ["to bear"]
 		},
 		{
 			"word": "gigant/o",
-			"meaning": "huge"
+			"meaning": ["huge"]
 		},
 		{
 			"word": "gingiv/o",
-			"meaning": "gums"
+			"meaning": ["gums"]
 		},
 		{
 			"word": "glauc/o",
@@ -1002,11 +1006,11 @@
 		},
 		{
 			"word": "glomerul/o",
-			"meaning": "glomerulus"
+			"meaning": ["glomerulus"]
 		},
 		{
 			"word": "gloss/o",
-			"meaning": "toung"
+			"meaning": ["toung"]
 		},
 		{
 			"word": "gluc/o",
@@ -1018,11 +1022,11 @@
 		},
 		{
 			"word": "gnath/o",
-			"meaning": "jaw"
+			"meaning": ["jaw"]
 		},
 		{
 			"word": "gnos/o",
-			"meaning": "knowledge"
+			"meaning": ["knowledge"]
 		},
 		{
 			"word": "gon/o",
@@ -1030,31 +1034,31 @@
 		},
 		{
 			"word": "gonad/o",
-			"meaning": "gonads"
+			"meaning": ["gonads"]
 		},
 		{
 			"word": "goni/o",
-			"meaning": "angle"
+			"meaning": ["angle"]
 		},
 		{
 			"word": "granul/o",
-			"meaning": "granules"
+			"meaning": ["granules"]
 		},
 		{
 			"word": "graph/o",
-			"meaning": "writing"
+			"meaning": ["writing"]
 		},
 		{
 			"word": "gravid/o",
-			"meaning": "pregnancy"
+			"meaning": ["pregnancy"]
 		},
 		{
 			"word": "gustat/o",
-			"meaning": "taste"
+			"meaning": ["taste"]
 		},
 		{
 			"word": "gust/o",
-			"meaning": "taste"
+			"meaning": ["taste"]
 		},
 		{
 			"word": "gynec/o",
@@ -1066,7 +1070,7 @@
 		},
 		{
 			"word": "haph/e",
-			"meaning": "touch"
+			"meaning": ["touch"]
 		},
 		{
 			"word": "hapl/o",
@@ -1078,55 +1082,55 @@
 		},
 		{
 			"word": "helc/o",
-			"meaning": "ulcer"
+			"meaning": ["ulcer"]
 		},
 		{
 			"word": "heli/o",
-			"meaning": "sun"
+			"meaning": ["sun"]
 		},
 		{
 			"word": "helminth/o",
-			"meaning": "worm"
+			"meaning": ["worm"]
 		},
 		{
 			"word": "hem/o",
-			"meaning": "blood"
+			"meaning": ["blood"]
 		},
 		{
 			"word": "hemat/o",
-			"meaning": "blood"
+			"meaning": ["blood"]
 		},
 		{
 			"word": "hepat/o",
-			"meaning": "liver"
+			"meaning": ["liver"]
 		},
 		{
 			"word": "hidr/o",
-			"meaning": "sweat"
+			"meaning": ["sweat"]
 		},
 		{
 			"word": "hirsut/o",
-			"meaning": "hairy"
+			"meaning": ["hairy"]
 		},
 		{
 			"word": "hirud/i",
-			"meaning": "leech"
+			"meaning": ["leech"]
 		},
 		{
 			"word": "hirudin/i",
-			"meaning": "leech"
+			"meaning": ["leech"]
 		},
 		{
 			"word": "hist/o",
-			"meaning": "tissue"
+			"meaning": ["tissue"]
 		},
 		{
 			"word": "hormon/o",
-			"meaning": "hormone"
+			"meaning": ["hormone"]
 		},
 		{
 			"word": "humer/o",
-			"meaning": "humerus"
+			"meaning": ["humerus"]
 		},
 		{
 			"word": "hyal/o",
@@ -1138,23 +1142,23 @@
 		},
 		{
 			"word": "hygr/o",
-			"meaning": "moisture"
+			"meaning": ["moisture"]
 		},
 		{
 			"word": "hymen/o",
-			"meaning": "hymen"
+			"meaning": ["hymen"]
 		},
 		{
 			"word": "hypn/o",
-			"meaning": "sleep"
+			"meaning": ["sleep"]
 		},
 		{
 			"word": "hypothalam/o",
-			"meaning": "hypothalamus"
+			"meaning": ["hypothalamus"]
 		},
 		{
 			"word": "hyster/o",
-			"meaning": "uterus"
+			"meaning": ["uterus"]
 		},
 		{
 			"word": "iatr/o",
@@ -1162,11 +1166,11 @@
 		},
 		{
 			"word": "ichthy/o",
-			"meaning": "fish"
+			"meaning": ["fish"]
 		},
 		{
 			"word": "icter/o",
-			"meaning": "jaundice"
+			"meaning": ["jaundice"]
 		},
 		{
 			"word": "ide/o",
@@ -1178,11 +1182,11 @@
 		},
 		{
 			"word": "ile/o",
-			"meaning": "ileum"
+			"meaning": ["ileum"]
 		},
 		{
 			"word": "ili/o",
-			"meaning": "ilium"
+			"meaning": ["ilium"]
 		},
 		{
 			"word": "immun/o",
@@ -1190,23 +1194,23 @@
 		},
 		{
 			"word": "inguin/o",
-			"meaning": "groin"
+			"meaning": ["groin"]
 		},
 		{
 			"word": "iod/o",
-			"meaning": "iodine"
+			"meaning": ["iodine"]
 		},
 		{
 			"word": "ion/o",
-			"meaning": "ion"
+			"meaning": ["ion"]
 		},
 		{
 			"word": "ir/o",
-			"meaning": "iris"
+			"meaning": ["iris"]
 		},
 		{
 			"word": "irid/o",
-			"meaning": "iris"
+			"meaning": ["iris"]
 		},
 		{
 			"word": "isch/o",
@@ -1214,31 +1218,31 @@
 		},
 		{
 			"word": "ischi/o",
-			"meaning": "ischium"
+			"meaning": ["ischium"]
 		},
 		{
 			"word": "is/o",
-			"meaning": "equal"
+			"meaning": ["equal"]
 		},
 		{
 			"word": "ixod/i",
-			"meaning": "ticks"
+			"meaning": ["ticks"]
 		},
 		{
 			"word": "jaund/o",
-			"meaning": "yellow"
+			"meaning": ["yellow"]
 		},
 		{
 			"word": "jejun/o",
-			"meaning": "jejunum"
+			"meaning": ["jejunum"]
 		},
 		{
 			"word": "kal/i",
-			"meaning": "potassium"
+			"meaning": ["potassium"]
 		},
 		{
 			"word": "kary/o",
-			"meaning": "nucleus"
+			"meaning": ["nucleus"]
 		},
 		{
 			"word": "kel/o",
@@ -1246,7 +1250,7 @@
 		},
 		{
 			"word": "ken/o",
-			"meaning": "empty"
+			"meaning": ["empty"]
 		},
 		{
 			"word": "kerat/o",
@@ -1254,11 +1258,11 @@
 		},
 		{
 			"word": "keton/o",
-			"meaning": "ketones"
+			"meaning": ["ketones"]
 		},
 		{
 			"word": "kinesi/o",
-			"meaning": "movement"
+			"meaning": ["movement"]
 		},
 		{
 			"word": "klept/o",
@@ -1270,11 +1274,11 @@
 		},
 		{
 			"word": "kraur/o",
-			"meaning": "dry"
+			"meaning": ["dry"]
 		},
 		{
 			"word": "kyph/o",
-			"meaning": "humpback"
+			"meaning": ["humpback"]
 		},
 		{
 			"word": "lacrim/o",
@@ -1282,7 +1286,7 @@
 		},
 		{
 			"word": "lact/o",
-			"meaning": "milk"
+			"meaning": ["milk"]
 		},
 		{
 			"word": "lal/o",
@@ -1290,11 +1294,11 @@
 		},
 		{
 			"word": "lamin/o",
-			"meaning": "lamina"
+			"meaning": ["lamina"]
 		},
 		{
 			"word": "lampr/o",
-			"meaning": "clear"
+			"meaning": ["clear"]
 		},
 		{
 			"word": "lapar/o",
@@ -1302,11 +1306,11 @@
 		},
 		{
 			"word": "laryng/o",
-			"meaning": "larynx"
+			"meaning": ["larynx"]
 		},
 		{
 			"word": "later/o",
-			"meaning": "side"
+			"meaning": ["side"]
 		},
 		{
 			"word": "laxat/o",
@@ -1318,7 +1322,7 @@
 		},
 		{
 			"word": "lei/o",
-			"meaning": "smooth"
+			"meaning": ["smooth"]
 		},
 		{
 			"word": "lepid/o",
@@ -1326,7 +1330,7 @@
 		},
 		{
 			"word": "lepr/o",
-			"meaning": "leprosy"
+			"meaning": ["leprosy"]
 		},
 		{
 			"word": "lept/o",
@@ -1334,19 +1338,19 @@
 		},
 		{
 			"word": "letharg/o",
-			"meaning": "drowsiness"
+			"meaning": ["drowsiness"]
 		},
 		{
 			"word": "leuk/o",
-			"meaning": "white"
+			"meaning": ["white"]
 		},
 		{
 			"word": "lien/o",
-			"meaning": "spleen"
+			"meaning": ["spleen"]
 		},
 		{
 			"word": "ligament/o",
-			"meaning": "ligament"
+			"meaning": ["ligament"]
 		},
 		{
 			"word": "ligat/o",
@@ -1354,15 +1358,15 @@
 		},
 		{
 			"word": "lim/o",
-			"meaning": "hunger"
+			"meaning": ["hunger"]
 		},
 		{
 			"word": "lingu/o",
-			"meaning": "tongue"
+			"meaning": ["tongue"]
 		},
 		{
 			"word": "lip/o",
-			"meaning": "fat"
+			"meaning": ["fat"]
 		},
 		{
 			"word": "lith/o",
@@ -1370,11 +1374,11 @@
 		},
 		{
 			"word": "lob/o",
-			"meaning": "lobe"
+			"meaning": ["lobe"]
 		},
 		{
 			"word": "logad/o",
-			"meaning": "whites of the eyes"
+			"meaning": ["whites of the eyes"]
 		},
 		{
 			"word": "log/o",
@@ -1382,7 +1386,7 @@
 		},
 		{
 			"word": "loph/o",
-			"meaning": "ridge"
+			"meaning": ["ridge"]
 		},
 		{
 			"word": "lord/o",
@@ -1394,27 +1398,27 @@
 		},
 		{
 			"word": "luc/i",
-			"meaning": "light"
+			"meaning": ["light"]
 		},
 		{
 			"word": "lucid/o",
-			"meaning": "clear"
+			"meaning": ["clear"]
 		},
 		{
 			"word": "lumb/o",
-			"meaning": "loin"
+			"meaning": ["loin"]
 		},
 		{
 			"word": "lumin/o",
-			"meaning": "light"
+			"meaning": ["light"]
 		},
 		{
 			"word": "lute/o",
-			"meaning": "yellow"
+			"meaning": ["yellow"]
 		},
 		{
 			"word": "luxat/o",
-			"meaning": "dislocate"
+			"meaning": ["dislocate"]
 		},
 		{
 			"word": "ly/o",
@@ -1422,27 +1426,27 @@
 		},
 		{
 			"word": "lymph/o",
-			"meaning": "lymph"
+			"meaning": ["lymph"]
 		},
 		{
 			"word": "mamm/o",
-			"meaning": "breast"
+			"meaning": ["breast"]
 		},
 		{
 			"word": "mast/o",
-			"meaning": "breast"
+			"meaning": ["breast"]
 		},
 		{
 			"word": "maxill/o",
-			"meaning": "maxilla"
+			"meaning": ["maxilla"]
 		},
 		{
 			"word": "medi/o",
-			"meaning": "middle"
+			"meaning": ["middle"]
 		},
 		{
 			"word": "mediastin/o",
-			"meaning": "mediastinum"
+			"meaning": ["mediastinum"]
 		},
 		{
 			"word": "medic/o",
@@ -1458,7 +1462,7 @@
 		},
 		{
 			"word": "melan/o",
-			"meaning": "black"
+			"meaning": ["black"]
 		},
 		{
 			"word": "men/o",
@@ -1470,15 +1474,15 @@
 		},
 		{
 			"word": "ment/o",
-			"meaning": "mind"
+			"meaning": ["mind"]
 		},
 		{
 			"word": "mer/o",
-			"meaning": "part"
+			"meaning": ["part"]
 		},
 		{
 			"word": "metall/o",
-			"meaning": "metal"
+			"meaning": ["metal"]
 		},
 		{
 			"word": "method/o",
@@ -1486,7 +1490,7 @@
 		},
 		{
 			"word": "metr/o",
-			"meaning": "uterus"
+			"meaning": ["uterus"]
 		},
 		{
 			"word": "mi/o",
@@ -1502,15 +1506,15 @@
 		},
 		{
 			"word": "mort/o",
-			"meaning": "death"
+			"meaning": ["death"]
 		},
 		{
 			"word": "muc/o",
-			"meaning": "mucus"
+			"meaning": ["mucus"]
 		},
 		{
 			"word": "muscul/o",
-			"meaning": "muscle"
+			"meaning": ["muscle"]
 		},
 		{
 			"word": "mutilat/o",
@@ -1518,15 +1522,15 @@
 		},
 		{
 			"word": "my/o",
-			"meaning": "muscle"
+			"meaning": ["muscle"]
 		},
 		{
 			"word": "myos/o",
-			"meaning": "muscle"
+			"meaning": ["muscle"]
 		},
 		{
 			"word": "myc/o",
-			"meaning": "fungus"
+			"meaning": ["fungus"]
 		},
 		{
 			"word": "myel/o",
@@ -1534,11 +1538,11 @@
 		},
 		{
 			"word": "myring/o",
-			"meaning": "eardrum"
+			"meaning": ["eardrum"]
 		},
 		{
 			"word": "myx/o",
-			"meaning": "mucus"
+			"meaning": ["mucus"]
 		},
 		{
 			"word": "narc/o",
@@ -1546,27 +1550,27 @@
 		},
 		{
 			"word": "nas/o",
-			"meaning": "nose"
+			"meaning": ["nose"]
 		},
 		{
 			"word": "nat/o",
-			"meaning": "birth"
+			"meaning": ["birth"]
 		},
 		{
 			"word": "natr/o",
-			"meaning": "sodium"
+			"meaning": ["sodium"]
 		},
 		{
 			"word": "necr/o",
-			"meaning": "death"
+			"meaning": ["death"]
 		},
 		{
 			"word": "nephr/o",
-			"meaning": "kidney"
+			"meaning": ["kidney"]
 		},
 		{
 			"word": "neur/o",
-			"meaning": "nerve"
+			"meaning": ["nerve"]
 		},
 		{
 			"word": "neutr/o",
@@ -1574,11 +1578,11 @@
 		},
 		{
 			"word": "noct/i",
-			"meaning": "night"
+			"meaning": ["night"]
 		},
 		{
 			"word": "nod/o",
-			"meaning": "knot"
+			"meaning": ["knot"]
 		},
 		{
 			"word": "nom/o",
@@ -1590,27 +1594,27 @@
 		},
 		{
 			"word": "nos/o",
-			"meaning": "disease"
+			"meaning": ["disease"]
 		},
 		{
 			"word": "not/o",
-			"meaning": "the back"
+			"meaning": ["the back"]
 		},
 		{
 			"word": "nucle/o",
-			"meaning": "nucleus"
+			"meaning": ["nucleus"]
 		},
 		{
 			"word": "nutri/o",
-			"meaning": "nourish"
+			"meaning": ["nourish"]
 		},
 		{
 			"word": "nutrit/o",
-			"meaning": "nourish"
+			"meaning": ["nourish"]
 		},
 		{
 			"word": "nyct/o",
-			"meaning": "night"
+			"meaning": ["night"]
 		}
 	]
 }

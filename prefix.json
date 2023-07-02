@@ -6,11 +6,11 @@
 		},
 		{
 			"prefix": "ab-",
-			"meaning": "away from"
+			"meaning": ["away from"]
 		},
 		{
 			"prefix": "acu-",
-			"meaning": "needle"
+			"meaning": ["needle"]
 		},
 		{
 			"prefix": "ad-",
@@ -38,7 +38,7 @@
 		},
 		{
 			"prefix": "anti-",
-			"meaning": "against"
+			"meaning": ["against"]
 		},
 		{
 			"prefix": "apo-",
@@ -54,7 +54,7 @@
 		},
 		{
 			"prefix": "auto-",
-			"meaning": "self"
+			"meaning": ["self"]
 		},
 		{
 			"prefix": "bary-",
@@ -70,7 +70,7 @@
 		},
 		{
 			"prefix": "bi-",
-			"meaning": "two"
+			"meaning": ["two"]
 		},
 		{
 			"prefix": "bio-",
@@ -78,11 +78,11 @@
 		},
 		{
 			"prefix": "brachy-",
-			"meaning": "short"
+			"meaning": ["short"]
 		},
 		{
 			"prefix": "brady-",
-			"meaning": "slow"
+			"meaning": ["slow"]
 		},
 		{
 			"prefix": "cata-",
@@ -90,15 +90,15 @@
 		},
 		{
 			"prefix": "centi-",
-			"meaning": "one hundredth(10^-2)"
+			"meaning": ["one hundredth(10^-2)"]
 		},
 		{
 			"prefix": "cine-",
-			"meaning": "movement"
+			"meaning": ["movement"]
 		},
 		{
 			"prefix": "circum-",
-			"meaning": "around"
+			"meaning": ["around"]
 		},
 		{
 			"prefix": "com-",
@@ -114,19 +114,19 @@
 		},
 		{
 			"prefix": "deca-",
-			"meaning": "ten(10^1)"
+			"meaning": ["ten(10^1)"]
 		},
 		{
 			"prefix": "deci-",
-			"meaning": "one tenth(10^-1"
+			"meaning": ["one tenth(10^-1)"]
 		},
 		{
 			"prefix": "demi-",
-			"meaning": "half"
+			"meaning": ["half"]
 		},
 		{
 			"prefix": "di-",
-			"meaning": "two"
+			"meaning": ["two"]
 		},
 		{
 			"prefix": "dia-",
@@ -150,11 +150,11 @@
 		},
 		{
 			"prefix": "echo-",
-			"meaning": "reverberating sound"
+			"meaning": ["reverberating sound"]
 		},
 		{
 			"prefix": "eco-",
-			"meaning": "environment"
+			"meaning": ["environment"]
 		},
 		{
 			"prefix": "en-",
@@ -174,7 +174,7 @@
 		},
 		{
 			"prefix": "eso-",
-			"meaning": "within"
+			"meaning": ["within"]
 		},
 		{
 			"prefix": "eu-",
@@ -190,7 +190,7 @@
 		},
 		{
 			"prefix": "exa-",
-			"meaning": "quintillion (10^18)"
+			"meaning": ["quintillion (10^18)"]
 		},
 		{
 			"prefix": "exo-",
@@ -198,11 +198,11 @@
 		},
 		{
 			"prefix": "extra-",
-			"meaning": "outside"
+			"meaning": ["outside"]
 		},
 		{
 			"prefix": "femto-",
-			"meaning": "on quadrillionth (10^15)"
+			"meaning": ["on quadrillionth (10^15)"]
 		},
 		{
 			"prefix": "fore-",
@@ -210,19 +210,19 @@
 		},
 		{
 			"prefix": "galvano-",
-			"meaning": "direct electric current"
+			"meaning": ["direct electric current"]
 		},
 		{
 			"prefix": "giga-",
-			"meaning": "billion (10^9)"
+			"meaning": ["billion (10^9)"]
 		},
 		{
 			"prefix": "hemi-",
-			"meaning": "half"
+			"meaning": ["half"]
 		},
 		{
 			"prefix": "heredo-",
-			"meaning": "heredity"
+			"meaning": ["heredity"]
 		},
 		{
 			"prefix": "hetero-",
@@ -230,15 +230,15 @@
 		},
 		{
 			"prefix": "hex-",
-			"meaning": "six"
+			"meaning": ["six"]
 		},
 		{
 			"prefix": "hexa-",
-			"meaning": "six"
+			"meaning": ["six"]
 		},
 		{
 			"prefix": "hepta-",
-			"meaning": "seven"
+			"meaning": ["seven"]
 		},
 		{
 			"prefix": "holo-",
@@ -262,7 +262,7 @@
 		},
 		{
 			"prefix": "hypsi-",
-			"meaning": "high"
+			"meaning": ["high"]
 		},
 		{
 			"prefix": "infra-",
@@ -270,15 +270,15 @@
 		},
 		{
 			"prefix": "inter-",
-			"meaning": "between"
+			"meaning": ["between"]
 		},
 		{
 			"prefix": "intra-",
-			"meaning": "within"
+			"meaning": ["within"]
 		},
 		{
 			"prefix": "ipsi-",
-			"meaning": "same"
+			"meaning": ["same"]
 		},
 		{
 			"prefix": "ithy-",
@@ -286,27 +286,27 @@
 		},
 		{
 			"prefix": "juxta-",
-			"meaning": "near"
+			"meaning": ["near"]
 		},
 		{
 			"prefix": "kilo-",
-			"meaning": "thousand (10^3)"
+			"meaning": ["thousand (10^3)"]
 		},
 		{
 			"prefix": "levo-",
-			"meaning": "left"
+			"meaning": ["left"]
 		},
 		{
 			"prefix": "mega-",
-			"meaning": "million (10^6)"
+			"meaning": ["million (10^6)"]
 		},
 		{
 			"prefix": "mega-",
-			"meaning": "large"
+			"meaning": ["large"]
 		},
 		{
 			"prefix": "megalo-",
-			"meaning": "large"
+			"meaning": ["large"]
 		},
 		{
 			"prefix": "meli-",
@@ -318,7 +318,7 @@
 		},
 		{
 			"prefix": "meso-",
-			"meaning": "middle"
+			"meaning": ["middle"]
 		},
 		{
 			"prefix": "meta-",
@@ -330,15 +330,15 @@
 		},
 		{
 			"prefix": "mili-",
-			"meaning": "one thousandth (10^-3)"
+			"meaning": ["one thousandth (10^-3)"]
 		},
 		{
 			"prefix": "mogi-",
-			"meaning": "difficult"
+			"meaning": ["difficult"]
 		},
 		{
 			"prefix": "mono-",
-			"meaning": "one"
+			"meaning": ["one"]
 		},
 		{
 			"prefix": "multi-",
@@ -346,11 +346,11 @@
 		},
 		{
 			"prefix": "nano-",
-			"meaning": "one billionth (10^-6)"
+			"meaning": ["one billionth (10^-6)"]
 		},
 		{
 			"prefix": "neo-",
-			"meaning": "new"
+			"meaning": ["new"]
 		},
 		{
 			"prefix": "noci-",
@@ -358,15 +358,15 @@
 		},
 		{
 			"prefix": "nomen-",
-			"meaning": "name"
+			"meaning": ["name"]
 		},
 		{
 			"prefix": "noni-",
-			"meaning": "nine"
+			"meaning": ["nine"]
 		},
 		{
 			"prefix": "nulli-",
-			"meaning": "none"
+			"meaning": ["none"]
 		}
 	]
 }
