@@ -359,6 +359,198 @@
 		{
 			"suffix": "-noia",
 			"meaning": ["mind","will"]
+		},
+		{
+			"suffix":"-oid",
+			"meaning":["resembling"]
+		},
+		{
+			"suffix":"-ole",
+			"meaning":["little","small"]
+		},
+		{
+			"suffix":"-oma",
+			"meaning":["tumor","mass"]
+		},
+		{
+			"suffix":"-opia",
+			"meaning":["vision"]
+		},
+		{
+			"suffix":"-opsia",
+			"meaning":["vision"]
+		},
+		{
+			"suffix":"-opsy",
+			"meaning":["to view"]
+		},
+		{
+			"suffix":"-orexia",
+			"meaning":["appetite"]
+		},
+		{
+			"suffix":"-osis",
+			"meaning":["condition","status","abnormal increase"]
+		},
+		{
+			"suffix":"-osmia",
+			"meaning":["sense of smell","odor","impulse"]
+		},
+		{
+			"suffix":"-osphresia",
+			"meaning":["sense of smell","odor"]
+		},
+		{
+			"suffix":"-oxia",
+			"meaning":["oxygen"]
+		},
+		{
+			"suffix":"-pagus",
+			"meaning":["conjoined twins"]
+		},
+		{
+			"suffix":"-para",
+			"meaning":["to bear","bring forth"]
+		},
+		{
+			"suffix":"-parous",
+			"meaning":["to bear","bring forth"]
+		},
+		{
+			"suffix":"-paresis",
+			"meaning":["partial paralysis"]
+		},
+		{
+			"suffix":"-partum",
+			"meaning":["childbirth","labor"]
+		},
+		{
+			"suffix":"-pause",
+			"meaning":["cessation"]
+		},
+		{
+			"suffix":"-penia",
+			"meaning":["deficiency"]
+		},
+		{
+			"suffix":"-pepsia",
+			"meaning":["digestion"]
+		},
+		{
+			"suffix":"-petal",
+			"meaning":["moving toward","seeking"]
+		},
+		{
+			"suffix":"-pexy",
+			"meaning":["fixation"]
+		},
+		{
+			"suffix":"-phagia",
+			"meaning":["eating","ingestion"]
+		},
+		{
+			"suffix":"-phasia",
+			"meaning":["speech"]
+		},
+		{
+			"suffix":"-pheresis",
+			"meaning":["removal"]
+		},
+		{
+			"suffix":"-phil",
+			"meaning":["affinity for","tendency towards"]
+		},
+		{
+			"suffix":"-philia",
+			"meaning":["affinity for","tendency towards"]
+		},
+		{
+			"suffix":"-phobia",
+			"meaning":["fear","aversion"]
+		},
+		{
+			"suffix":"-phonia",
+			"meaning":["voice","sound"]
+		},
+		{
+			"suffix":"-phore",
+			"meaning":["bearer","processor"]
+		},
+		{
+			"suffix":"-phoresis",
+			"meaning":["bearing","transmission"]
+		},
+		{
+			"suffix":"-phylaxis",
+			"meaning":["protection"]
+		},
+		{
+			"suffix":"-phyma",
+			"meaning":["tumor","growth"]
+		},
+		{
+			"suffix":"-physis",
+			"meaning":["growth","growing"]
+		},
+		{
+			"suffix":"-phyte",
+			"meaning":["plant"]
+		},
+		{
+			"suffix":"-piesis",
+			"meaning":["pressure"]
+		},
+		{
+			"suffix":"-plasm",
+			"meaning":["formation","growth"]
+		},
+		{
+			"suffix":"-plasty",
+			"meaning":["surgical correction","repair"]
+		},
+		{
+			"suffix":"-plegia",
+			"meaning":["paralysis"]
+		},
+		{
+			"suffix":"-ploid",
+			"meaning":["number of chromosome sets"]
+		},
+		{
+			"suffix":"-ploidy",
+			"meaning":["number of chromosome sets"]
+		},
+		{
+			"suffix":"-pnea",
+			"meaning":["breathe"]
+		},
+		{
+			"suffix":"-poiesis",
+			"meaning":["formation"]
+		},
+		{
+			"suffix":"-pore",
+			"meaning":["opening","passageway"]
+		},
+		{
+			"suffix":"-porosis",
+			"meaning":["porous","decrease in density"]
+		},
+		{
+			"suffix":"-posia",
+			"meaning":["drinking"]
+		},
+		{
+			"suffix":"-prandial",
+			"meaning":["meal"]
+		},
+		{
+			"suffix":"-praxia",
+			"meaning":["action","activity"]
+		},
+		{
+			"suffix":"-privia",
+			"meaning":["loss","deprivation"]
 		}
 	]
 }

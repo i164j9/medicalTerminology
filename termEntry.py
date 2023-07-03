@@ -5,12 +5,12 @@ rot = open("root.json",'a')
 
 user_entry=''
 definitions=[]
-definition='1'
 
 line_mid="\",\n\t\t\t\"meaning\":["
 line_post =  "]\n\t\t},"
 
 while user_entry != 'quit':
+    definition ='1'
     user_entry = input("enter term: ")
     while definition != '':
         definition = input("enter definition: ")
@@ -47,9 +47,10 @@ while user_entry != 'quit':
                     line = line + "\"" + d + "\""
                     if counter < len(definitions):
                         line = line + ","
+            line = line + line_post
         else:
-            line = line_pre + user_entry + line_mid + "\"" + definition +"\""+ line_post
-        line = line + line_post
+            line = line_pre + user_entry + line_mid + "\"" + definitions[0] +"\""+ line_post
+        
         definitions.clear()
         print(line+"\n")
         rot.write(line)
@@ -65,9 +66,10 @@ while user_entry != 'quit':
                     line = line + "\"" + d + "\""
                     if counter < len(definitions):
                         line = line + ","
+            line = line + line_post
         else:
-            line = line_pre + user_entry + line_mid + "\"" + definition +"\""+ line_post
-        line = line + line_post
+            line = line_pre + user_entry + line_mid + "\"" + definitions[0] +"\""+ line_post
+        #line = line + line_post
         definitions.clear()
         print(line+"\n")
         suf.write(line)
