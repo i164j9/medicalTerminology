@@ -1,7 +1,11 @@
 {
 	"prefixes": [
 		{
-			"prefix": "a-,an-",
+			"prefix": "a-",
+			"meaning": ["without","not"]
+		},
+		{
+			"prefix": "an-",
 			"meaning": ["without","not"]
 		},
 		{

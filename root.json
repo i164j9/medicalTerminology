@@ -81,6 +81,18 @@
 			"meaning": ["rapidity","restlessness"]
 		},
 		{
+			"word": "albin/o",
+			"meaning": ["white"]
+		},
+		{
+			"word": "albo",
+			"meaning": ["white"]
+		},
+		{
+			"word": "albumin/o",
+			"meaning": ["albumin"]
+		},
+		{
 			"suffix": "alges/o",
 			"meaning": ["pain sensitivity"]
 		},
@@ -1574,7 +1586,7 @@
 		},
 		{
 			"word": "neutr/o",
-			"meaning": "nev/o"
+			"meaning": ["nev/o"]
 		},
 		{
 			"word": "noct/i",

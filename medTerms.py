@@ -29,11 +29,28 @@ prefix.close()
 root.close()
 suffix.close()
 
-print(type(pre))
+# for r in range(0,len(roots['rootwords']),1):
+#     print(roots['rootwords'][r].get('word'))
+#     for m in range(0,len(roots['rootwords'][r]['meaning']),1):
+#         print(roots['rootwords'][r]['meaning'][m])
+#     print()    
 
-myrootwords = roots['rootwords']['word']
-rootmeaning = roots['rootwords']['meaning']
 
+def get_random_word():
+    r = random.randint(0, len(roots['rootwords']))
+    myrootwords = roots['rootwords'][r]['word']
+    d = random.randint(0, len(roots['rootwords'][r]['meaning']))
+    print(str(r)+" "+str(d))
+    if d < 2:
+        d = 0
+    print(str(r) + " " + str(d))
+    myrootwords = roots['rootwords'][r]['word']
+    print(myrootwords)
+    rootmeaning = roots['rootwords'][r]['meaning'][d-1]
+    print(myrootwords + " " + rootmeaning)
+
+while(True):
+    get_random_word()
 
 # for i in range(0,len(pre['prefixes']),1):
 #     myprefix.append(pre['prefixes'][i]['prefix'])
