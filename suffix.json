@@ -551,6 +551,22 @@
 		{
 			"suffix":"-privia",
 			"meaning":["loss","deprivation"]
+		},
+		{
+			"suffix":"-pterygium",
+			"meaning":["abnormality of the conjunctiva"]
+		},
+		{
+			"suffix":"-ptosis",
+			"meaning":["prolapse","drooping"]
+		},
+		{
+			"suffix":"-ptysis",
+			"meaning":["spitting"]
+		},
+		{
+			"suffix":"-puncture",
+			"meaning":["to pierce a surface"]
 		}
 	]
 }

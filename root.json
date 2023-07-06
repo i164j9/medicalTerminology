@@ -2144,6 +2144,86 @@
 		{
 			"root":"psychr/o",
 			"meaning":["cold"]
-		}	
+		},
+		{
+			"root":"pteryg/o",
+			"meaning":["wing-shaped"]
+		},
+		{
+			"root":"pytal/o",
+			"meaning":["saliva"]
+		},
+		{
+			"root":"pub/o",
+			"meaning":["pubis"]
+		},
+		{
+			"root":"pulmon/o",
+			"meaning":["lung"]
+		},
+		{
+			"root":"puls/o",
+			"meaning":["to beat","beating"]
+		},
+		{
+			"root":"pulsat/o",
+			"meaning":["to beat","beating"]
+		},
+		{
+			"root":"pupill/o",
+			"meaning":["pupil"]
+		},
+		{
+			"root":"purgat/o",
+			"meaning":["cleansing"]
+		},
+		{
+			"root":"purpur/i",
+			"meaning":["purple"]
+		},
+		{
+			"root":"purul/o",
+			"meaning":["pus formation"]
+		},
+		{
+			"root":"py/o",
+			"meaning":["pus"]
+		},
+		{
+			"root":"pyel/o",
+			"meaning":["renal pelvis"]
+		},
+		{
+			"root":"pyg/o",
+			"meaning":["buttocks"]
+		},
+		{
+			"root":"pykn/o",
+			"meaning":["thick","dense"]
+		},
+		{
+			"root":"pycn/o",
+			"meaning":["thick","dense"]
+		},
+		{
+			"root":"pyl/e",
+			"meaning":["portal vein"]
+		},
+		{
+			"root":"pylor/o",
+			"meaning":["pylorus"]
+		},
+		{
+			"root":"pyret/o",
+			"meaning":["fever"]
+		},
+		{
+			"root":"pyrex/o",
+			"meaning":["feverishness","fever"]
+		},
+		{
+			"root":"pyr/o",
+			"meaning":["heat","fire","fever"]
+		}
 	]
 }
